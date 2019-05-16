@@ -1,0 +1,94 @@
+\RequirePackage{fix-cm} % fix some latex issues see: http://texdoc.net/texmf-dist/doc/latex/base/fixltx2e.pdf
+\documentclass[ twoside,openright,titlepage,numbers=noenddot,headinclude,%1headlines,% letterpaper a4paper
+                footinclude=true,cleardoublepage=empty,abstractoff, % <--- obsolete, remove (todo)
+                BCOR=5mm,paper=a4,fontsize=11pt,%11pt,a4paper,%
+                ngerman,american,%
+                ]{scrreprt}
+
+%********************************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\input{research-config}
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+%\addbibresource{Bibliography.bib}
+%\addbibresource[label=ownpubs]{AMiede_Publications.bib}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+% ********************************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\begin{document}
+\frenchspacing
+\raggedbottom
+\selectlanguage{american} % american ngerman
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%********************************************************************
+% Frontmatter
+%*******************************************************
+%\include{FrontBackmatter/DirtyTitlepage}
+\include{FrontBackmatter/Titlepage}
+%\include{FrontBackmatter/Titleback}
+%\cleardoublepage\include{FrontBackmatter/Dedication}
+%\cleardoublepage\include{FrontBackmatter/Foreword}
+%\cleardoublepage\include{FrontBackmatter/Abstract}
+%\cleardoublepage\include{FrontBackmatter/Publications}
+%\cleardoublepage\include{FrontBackmatter/Acknowledgments}
+\pagestyle{scrheadings}
+\cleardoublepage\include{FrontBackmatter/Contents}
+
+%********************************************************************
+% Mainmatter
+%*******************************************************
+\cleardoublepage\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+%\ctparttext{Labs are essential to understanding the concepts of
+%  research methodology. The labs presented in this manual are
+%  conducted with SOFA.}
+%\part{Lab Manual}
+%\include{Chapters/Chapter01}
+%\cleardoublepage
+\ctparttext{Labs are essential to understanding the concepts of
+  research methodology. The labs presented in this manual are
+  conducted with SOFA.}
+\part{Lab Manual}
+%\Sexpr{knit_child('Chapters/Lab01.Rnw')} % Intro to Sofa
+%\Sexpr{knit_child('Chapters/Lab02.Rnw')} % Visualizing Data I
+%\Sexpr{knit_child('Chapters/Lab03.Rnw')} % Visualizing Data II
+\Sexpr{knit_child('Chapters/Lab04.Rnw')} % Central Measures
+%\Sexpr{knit_child('Chapters/Lab05.Rnw')} % Spread Measures
+%\Sexpr{knit_child('Chapters/Lab06.Rnw')} % Correlation
+%\Sexpr{knit_child('Chapters/Lab07.Rnw')} % Regression
+%\Sexpr{knit_child('Chapters/Lab08.Rnw')} % Anova
+
+% ********************************************************************
+% Backmatter
+%*******************************************************
+%\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+%\cleardoublepage
+%\part{Appendix}
+%\include{Chapters/Chapter0A}
+%********************************************************************
+% Other Stuff in the Back
+%*******************************************************
+%\cleardoublepage\include{FrontBackmatter/Bibliography}
+%\cleardoublepage\include{FrontBackmatter/Declaration}
+\cleardoublepage\include{FrontBackmatter/Colophon}
+% ********************************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}
+% ********************************************************************

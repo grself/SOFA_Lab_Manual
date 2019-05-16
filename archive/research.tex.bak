@@ -1,0 +1,126 @@
+% *************************************************************************************
+% Research (BASV 316)
+% *************************************************************************************
+\RequirePackage{fix-cm} % fix some latex issues see: http://texdoc.net/texmf-dist/doc/latex/base/fixltx2e.pdf
+\documentclass[ twoside,openright,titlepage,numbers=noenddot,headinclude,
+footinclude=true,cleardoublepage=empty,abstractoff, 
+BCOR=5mm,fontsize=11pt,american]{scrreprt}
+
+%********************************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\input{research-config}
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+  \def\at@end@of@kframe{}%
+  \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+\begin{minipage}{\columnwidth}%
+  \fi\fi%
+  \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+    \colorbox{shadecolor}{##1}\hskip-\fboxsep
+    % There is no \\@totalrightmargin, so:
+    \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+  \MakeFramed {\advance\hsize-\width
+    \@totalleftmargin\z@ \linewidth\hsize
+    \@setminipage}}%
+{\par\unskip\endMakeFramed%
+  \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[table]{xcolor}
+\usepackage{dcolumn}
+\usepackage{marginnote}
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+%\addbibresource{Bibliography.bib}
+%\addbibresource[label=ownpubs]{AMiede_Publications.bib}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+% ********************************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+\frenchspacing
+\raggedbottom
+\selectlanguage{american} % american ngerman
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%********************************************************************
+% Frontmatter
+%*******************************************************
+%\include{FrontBackmatter/DirtyTitlepage}
+%\include{FrontBackmatter/Titlepage}
+%\include{FrontBackmatter/Titleback}
+%\cleardoublepage\include{FrontBackmatter/Dedication}
+%\cleardoublepage\include{FrontBackmatter/Foreword}
+%\cleardoublepage\include{FrontBackmatter/Abstract}
+%\cleardoublepage\include{FrontBackmatter/Publications}
+%\cleardoublepage\include{FrontBackmatter/Acknowledgments}
+\pagestyle{scrheadings}
+%\cleardoublepage\include{FrontBackmatter/Contents}
+
+%********************************************************************
+% Mainmatter
+%*******************************************************
+\cleardoublepage\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+%\ctparttext{Labs are essential to understanding the concepts of
+%  research methodology. The labs presented in this manual are
+%  conducted with SOFA.}
+%\part{Lab Manual}
+%\include{Chapters/Chapter01}
+%\cleardoublepage
+\ctparttext{Labs are essential to understanding the concepts of
+  research methodology. The labs presented in this manual are
+  conducted with SOFA.}
+\part{Lab Manual}
+\cleardoublepage\include{Chapters/Lab01}
+\cleardoublepage\include{Chapters/Lab02}
+\cleardoublepage\include{Chapters/Lab03}
+\cleardoublepage\include{Chapters/Lab04}
+\cleardoublepage\include{Chapters/Lab05}
+\cleardoublepage\include{Chapters/Lab06}
+
+% ********************************************************************
+% Backmatter
+%*******************************************************
+%\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+%\cleardoublepage
+\part{Appendix}
+\include{Chapters/Chapter0A}
+%********************************************************************
+% Other Stuff in the Back
+%*******************************************************
+%\cleardoublepage\include{FrontBackmatter/Bibliography}
+%\cleardoublepage\include{FrontBackmatter/Declaration}
+%\cleardoublepage\include{FrontBackmatter/Colophon}
+% ********************************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}
+% ********************************************************************

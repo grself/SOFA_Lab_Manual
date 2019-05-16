@@ -1,0 +1,103 @@
+%*******************************************************
+% Lab Manual -- BASV 316: SOFA
+%*******************************************************
+\RequirePackage{fix-cm} % fix some latex issues see: http://texdoc.net/texmf-dist/doc/latex/base/fixltx2e.pdf
+\documentclass[ twoside,openright,titlepage,numbers=noenddot,headinclude,
+footinclude=true,cleardoublepage=empty,abstractoff, 
+BCOR=5mm,fontsize=11pt,american]{scrreprt}
+
+%*******************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\input{LabManual-config}
+
+%*******************************************************
+% Bibliographies
+%*******************************************************
+%\addbibresource{Bibliography.bib}
+%\addbibresource[label=ownpubs]{AMiede_Publications.bib}
+
+%*******************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+%*******************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+\frenchspacing
+\raggedbottom
+\selectlanguage{american} % american ngerman
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%*******************************************************
+% Frontmatter
+%*******************************************************
+%\include{FrontBackmatter/DirtyTitlepage}
+\include{FrontBackmatter/Titlepage}
+\include{FrontBackmatter/Titleback}
+%\cleardoublepage\include{FrontBackmatter/Dedication}
+\cleardoublepage\include{FrontBackmatter/Foreword}
+%\cleardoublepage\include{FrontBackmatter/Abstract}
+%\cleardoublepage\include{FrontBackmatter/Publications}
+%\cleardoublepage\include{FrontBackmatter/Acknowledgments}
+\pagestyle{scrheadings}
+\cleardoublepage\include{FrontBackmatter/Contents}
+
+%*******************************************************
+% Mainmatter
+%*******************************************************
+\cleardoublepage\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+%\ctparttext{Labs are essential to understanding the concepts of
+%  research methodology. The labs presented in this manual are
+%  conducted with SOFA.}
+%\part{Lab Manual}
+%\include{Chapters/Chapter01}
+%\cleardoublepage
+%\ctparttext{Labs are essential to understanding the concepts of
+%  research methodology. The labs presented in this manual are
+%  conducted with SOFA.}
+%\part{Lab Manual}
+\part{Lab Exercises}
+\cleardoublepage\include{Chapters/01_intro}
+\cleardoublepage\include{Chapters/02_centMeas}
+\cleardoublepage\include{Chapters/03_dispersion}
+\cleardoublepage\include{Chapters/04_visDispersion}
+\cleardoublepage\include{Chapters/05_freqTables}
+\cleardoublepage\include{Chapters/06_visFreq}
+\cleardoublepage\include{Chapters/07_correlation}
+\cleardoublepage\include{Chapters/08_regression}
+\cleardoublepage\include{Chapters/09_hypTestNonPara}
+\cleardoublepage\include{Chapters/10_hypTestPara}
+\cleardoublepage\include{Chapters/11_final}
+
+%*******************************************************
+% Backmatter
+%*******************************************************
+%\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+%\cleardoublepage
+\part{Appendix}
+\include{Chapters/99_Appendix}
+%*******************************************************
+% Other Stuff in the Back
+%*******************************************************
+%\cleardoublepage\include{FrontBackmatter/Bibliography}
+%\cleardoublepage\include{FrontBackmatter/Declaration}
+%\cleardoublepage\include{FrontBackmatter/Colophon}
+
+% Add two blank pages at the end
+\leavevmode\thispagestyle{empty}\newpage
+\leavevmode\thispagestyle{empty}\newpage
+%*******************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}

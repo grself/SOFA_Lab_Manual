@@ -1,0 +1,3410 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.5)  11 DEC 2016 09:19
+entering extended mode
+**research.tex
+(research.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
+Package: fix-cm 2014/09/29 v1.1s fixes to LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrreprt.cls"
+Document Class: scrreprt 2015/02/07 v3.16 KOMA-Script document class (report)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
+Package: scrkbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2015/02/07 v3.16 KOMA-Script package (loading files)
+
+Package scrlfile, 2015/02/07 v3.16 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
+Package: tocbasic 2015/02/07 v3.16 KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 118.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 119.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 120.
+Package tocbasic Info: defining new hook before heading of `' on input line 118
+0.
+Class scrreprt Info: You've used standard option `openright'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `open=right'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `open=right' there
+(scrreprt)           instead of `openright', too.
+Class scrreprt Info: You've used standard option `abstractoff'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `abstract=false'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `abstract=false' there
+(scrreprt)           instead of `abstractoff', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 1712.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
+File: scrsize11pt.clo 2015/02/07 v3.16 KOMA-Script font size class option (11pt
+)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
+Package: typearea 2015/02/07 v3.16 KOMA-Script package (type area)
+
+Package typearea, 2015/02/07 v3.16 KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 44.38632pt
+(typearea)              \oddsidemargin  = 0.28453pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 514.20023pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1342.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) (research-config.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+\c@dummy=\count89
+\abcd=\skip48
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.sty"
+Package: babel 2014/09/25 3.9l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.def"
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2015/03/10 v2.1b e-TeX tools for LaTeX (JAW)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+\et@xins=\count91
+)
+\etb@tempcnta=\count92
+)
+\csq@reset=\count93
+\csq@gtype=\count94
+\csq@glevel=\count95
+\csq@qlevel=\count96
+\csq@maxlvl=\count97
+\csq@tshold=\count98
+\csq@ltx@everypar=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg"
+File: csquotes.cfg 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
+Package: biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex1.sty"
+Package: biblatex1 2014/06/25 v2.9a programmable bibliographies (bibtex) (PK/JW
+/AB)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count100
+\c@listtotal=\count101
+\c@listcount=\count102
+\c@liststart=\count103
+\c@liststop=\count104
+\c@citecount=\count105
+\c@citetotal=\count106
+\c@multicitecount=\count107
+\c@multicitetotal=\count108
+\c@instcount=\count109
+\c@maxnames=\count110
+\c@minnames=\count111
+\c@maxitems=\count112
+\c@minitems=\count113
+\c@citecounter=\count114
+\c@savedcitecounter=\count115
+\c@uniquelist=\count116
+\c@uniquename=\count117
+\c@refsection=\count118
+\c@refsegment=\count119
+\c@maxextrayear=\count120
+\c@maxextraalpha=\count121
+\c@abbrvpenalty=\count122
+\c@highnamepenalty=\count123
+\c@lownamepenalty=\count124
+\c@maxparens=\count125
+\c@parenlevel=\count126
+\blx@tempcnta=\count127
+\blx@tempcntb=\count128
+\blx@tempcntc=\count129
+\blx@maxsection=\count130
+\blx@maxsegment=\count131
+\blx@notetype=\count132
+\blx@parenlevel@text=\count133
+\blx@parenlevel@foot=\count134
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\shorthandwidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
+\blx@auxin=\read1
+\blx@auxout=\write3
+\c@mincomprange=\count135
+\c@maxcomprange=\count136
+\c@mincompwidth=\count137
+\c@labelname=\count138
+\c@savedlabelname=\count139
+\c@author=\count140
+\c@savedauthor=\count141
+\c@shortauthor=\count142
+\c@savedshortauthor=\count143
+\c@editor=\count144
+\c@savededitor=\count145
+\c@editora=\count146
+\c@savededitora=\count147
+\c@editorb=\count148
+\c@savededitorb=\count149
+\c@editorc=\count150
+\c@savededitorc=\count151
+\c@shorteditor=\count152
+\c@savedshorteditor=\count153
+\c@bookauthor=\count154
+\c@savedbookauthor=\count155
+\c@translator=\count156
+\c@savedtranslator=\count157
+\c@annotator=\count158
+\c@savedannotator=\count159
+\c@commentator=\count160
+\c@savedcommentator=\count161
+\c@introduction=\count162
+\c@savedintroduction=\count163
+\c@foreword=\count164
+\c@savedforeword=\count165
+\c@afterword=\count166
+\c@savedafterword=\count167
+\c@holder=\count168
+\c@savedholder=\count169
+\c@namea=\count170
+\c@savednamea=\count171
+\c@nameb=\count172
+\c@savednameb=\count173
+\c@namec=\count174
+\c@savednamec=\count175
+\c@institution=\count176
+\c@savedinstitution=\count177
+\c@language=\count178
+\c@savedlanguage=\count179
+\c@location=\count180
+\c@savedlocation=\count181
+\c@organization=\count182
+\c@savedorganization=\count183
+\c@origlocation=\count184
+\c@savedoriglocation=\count185
+\c@origpublisher=\count186
+\c@savedorigpublisher=\count187
+\c@pageref=\count188
+\c@savedpageref=\count189
+\c@publisher=\count190
+\c@savedpublisher=\count191
+\c@lista=\count192
+\c@savedlista=\count193
+\c@listb=\count194
+\c@savedlistb=\count195
+\c@listc=\count196
+\c@savedlistc=\count197
+\c@listd=\count198
+\c@savedlistd=\count199
+\c@liste=\count200
+\c@savedliste=\count201
+\c@listf=\count202
+\c@savedlistf=\count203
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
+File: blx-compat.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
+File: biblatex.def 
+\c@textcitecount=\count204
+\c@textcitetotal=\count205
+\c@textcitemaxnames=\count206
+\c@biburlnumpenalty=\count207
+\c@biburlucpenalty=\count208
+\c@biburllcpenalty=\count209
+\c@smartand=\count210
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-natbib.def"
+File: blx-natbib.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric-comp.bbx"
+File: numeric-comp.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
+File: numeric.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
+File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count211
+\c@bbx:relatedtotal=\count212
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric-comp.cbx"
+File: numeric-comp.cbx 2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
+\c@cbx@tempcnta=\count213
+\c@cbx@tempcntb=\count214
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
+File: biblatex.cfg 
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen104
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count215
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count216
+\leftroot@=\count217
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count218
+\DOTSCASE@=\count219
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count220
+\c@MaxMatrixCols=\count221
+\dotsspace@=\muskip11
+\c@parentequation=\count222
+\dspbrk@lvl=\count223
+\tag@help=\toks19
+\row@=\count224
+\column@=\count225
+\maxfields@=\count226
+\andhelp@=\toks20
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks21
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 42.
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrhack.sty"
+Package: scrhack 2015/02/07 v3.16 KOMA-Script package 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mparhack\mparhack.sty"
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+Package: fixltx2e 2014/09/29 v1.1s fixes to LaTeX
+LaTeX Info: Redefining \em on input line 430.
+LaTeX Info: Redefining \textsubscript on input line 434.
+LaTeX Info: The control sequence `\[' is already robust on input line 481.
+LaTeX Info: The control sequence `\]' is already robust on input line 482.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\acronym\acronym.sty"
+Package: acronym 2014/09/29 v1.40 Support for acronyms (Tobias Oetiker)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
+\@xs@message=\write4
+\integerpart=\count227
+\decimalpart=\count228
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+\AC@clearlist=\toks23
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count229
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks24
+\extratabsurround=\skip61
+\backup@length=\skip62
+)
+\everycr=\toks25
+\minrowclearance=\skip63
+)
+\rownum=\count230
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip64
+\fb@frw=\dimen115
+\fb@frh=\dimen116
+\FrameRule=\dimen117
+\FrameSep=\dimen118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count231
+\Hy@pagecounter=\count232
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count233
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+Normal \count register pool exhausted, switching to extended pool.
+\c@Hy@tempcnt=\count277
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count278
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
+)
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 149.
+
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip65
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\marginnote\marginnote.sty"
+Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
+\c@mn@abspage=\count284
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\doclicense\doclicense.sty"
+Package: doclicense 2015/02/13 v0.10 Set and print the license of a document
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty"
+Package: xifthen 2009/04/17 v1.3 Extended ifthen features
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count285
+\calc@Bcount=\count286
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count287
+\calc@Cskip=\skip68
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty"
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+\doclicense@hsize=\skip69
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\doclicense\doclicense-american.ldf"
+File: doclicense-american.ldf 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\doclicense\doclicense-english.ldf"
+File: doclicense-english.ldf 
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\layouts\layouts.sty"
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip70
+\layoutsbox=\box29
+\l@youtunitlength=\skip71
+\l@youtlinethick=\skip72
+\l@youtlinethickii=\skip73
+\l@ysetupparskip=\skip74
+\l@ysetupbaselineskip=\skip75
+\l@yonem=\skip76
+\l@yonex=\skip77
+\l@ylmarg=\skip78
+\l@yrmarg=\skip79
+\l@yitmindent=\skip80
+\l@ylblwidth=\skip81
+\l@ylblsep=\skip82
+\l@ylparindent=\skip83
+\l@ytsep=\skip84
+\l@ypskip=\skip85
+\l@yptsep=\skip86
+\l@ypsep=\skip87
+\l@yitmsep=\skip88
+\l@ytok=\toks26
+\l@youtpw=\count288
+\l@youtph=\count289
+\l@youthpi=\count290
+\l@youthpii=\count291
+\l@youthpiii=\count292
+\l@youthpiv=\count293
+\l@youthpv=\count294
+\l@youthpvi=\count295
+\l@youthpvii=\count296
+\l@youtparskip=\count297
+\l@youtvpi=\count298
+\l@youtvpii=\count299
+\l@youtvpiii=\count300
+\l@youtvpiv=\count301
+\l@youtvpv=\count302
+\l@youtvpvi=\count303
+\l@youtvpvii=\count304
+\l@youthdo=\count305
+\l@youthdi=\count306
+\l@youthdii=\count307
+\l@youthdiii=\count308
+\l@youthdiv=\count309
+\l@youthdv=\count310
+\l@youthdvi=\count311
+\l@youthdvii=\count312
+\l@youtvdo=\count313
+\l@youtvdi=\count314
+\l@youtvdii=\count315
+\l@youtvdiii=\count316
+\l@youtvdiv=\count317
+\l@youtvdv=\count318
+\l@youtvdvi=\count319
+\l@youtvdvii=\count320
+\l@youtvdviii=\count321
+\l@youtxci=\count322
+\l@youtxcii=\count323
+\l@youtxciii=\count324
+\l@youtxciv=\count325
+\l@youtxcv=\count326
+\l@youtxcvi=\count327
+\l@youtyci=\count328
+\l@youtycii=\count329
+\l@youtyciii=\count330
+\l@youtyciv=\count331
+\l@youtycv=\count332
+\l@youtycvi=\count333
+\l@youtycvii=\count334
+\l@youtycviii=\count335
+\l@youtxco=\count336
+\l@youtyco=\count337
+\l@ytempdima=\skip89
+\stockwidth=\skip90
+\stockheight=\skip91
+\trimedge=\skip92
+\trimtop=\skip93
+\uppermargin=\skip94
+\spinemargin=\skip95
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+\TX@col@width=\dimen125
+\TX@old@table=\dimen126
+\TX@old@col=\dimen127
+\TX@target=\dimen128
+\TX@delta=\dimen129
+\TX@cols=\count338
+\TX@ftn=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count339
+Package caption Info: hyperref package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count340
+\sf@farskip=\skip96
+\sf@captopadj=\dimen137
+\sf@capskip=\skip97
+\sf@nearskip=\skip98
+\c@subfigure=\count341
+\c@subfigure@save=\count342
+\c@lofdepth=\count343
+\c@subtable=\count344
+\c@subtable@save=\count345
+\c@lotdepth=\count346
+\sf@top=\skip99
+\sf@bottom=\skip100
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count347
+\float@exts=\toks28
+\float@box=\box30
+\@float@everytoks=\toks29
+\@floatcapt=\box31
+)
+Package scrhack Info: loading float hack on input line 181.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\float.hak"
+File: float.hak 2015/02/07 v3.16 KOMA-Script package (hacking package float)
+Package scrhack Info: redefining \newfloat on input line 161.
+Package scrhack Info: redefining \listof on input line 161.
+Package scrhack Info: undefining \float@addtolists on input line 161.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count348
+\lst@gtempboxa=\box32
+\lst@token=\toks30
+\lst@length=\count349
+\lst@currlwidth=\dimen138
+\lst@column=\count350
+\lst@pos=\count351
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count352
+\lst@lineno=\count353
+\lst@maxwidth=\dimen141
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count354
+\lst@skipnumbers=\count355
+\lst@framebox=\box33
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package scrhack Info: loading listings hack on input line 187.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\listings.hak"
+File: listings.hak 2015/02/07 v3.16 KOMA-Script package (hacking package listin
+gs)
+Package tocbasic Info: setting babel extension for `lol' on input line 137.
+Package scrhack Info: redefining \lstlistoflistings on input line 137.
+)
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang3.sty"
+File: lstlang3.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang3.sty"
+File: lstlang3.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang3.sty"
+File: lstlang3.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 241.
+Package hyperref Info: Option `linktocpage' set `true' on input line 241.
+Package hyperref Info: Option `breaklinks' set `true' on input line 241.
+Package hyperref Info: Option `pageanchor' set `true' on input line 241.
+Package hyperref Info: Option `plainpages' set `false' on input line 241.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 241.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 241.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 241.
+
+(classicthesis.sty
+Package: classicthesis 2015/09/06 v4.2 Typographic style for a classic-looking 
+thesis
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty"
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\bera\beramono.sty"
+Package: beramono 2004/01/31 (WaS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\eulervm.sty"
+Package: eulervm 2005/01/11 v4.0 (WaS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks31
+\MT@count=\count356
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen144
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count357
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip101
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+Package classicthesis Info: A4 paper, Palatino or other on input line 272.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 336.0pt
+(typearea)              \evensidemargin = 92.58438pt
+(typearea)              \oddsidemargin  = 24.38356pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 666.04997pt
+(typearea)              \topmargin      = -40.58768pt
+(typearea)              \headheight     = 15.95pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 272.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen145
+\lightrulewidth=\dimen146
+\cmidrulewidth=\dimen147
+\belowrulesep=\dimen148
+\belowbottomsep=\dimen149
+\aboverulesep=\dimen150
+\abovetopsep=\dimen151
+\cmidrulesep=\dimen152
+\cmidrulekern=\dimen153
+\defaultaddspace=\dimen154
+\@cmidla=\count358
+\@cmidlb=\count359
+\@aboverulesep=\dimen155
+\@belowrulesep=\dimen156
+\@thisruleclass=\count360
+\@lastruleclass=\count361
+\@thisrulewidth=\dimen157
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+Package classicthesis Info: Using pdftex/microtype for character spacing.Make s
+ure your pdftex is version 1.40 or higher. on input line 345.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlayer-scrpage.sty"
+Package: scrlayer-scrpage 2015/02/07 v3.16 KOMA-Script package (end user interf
+ace for scrlayer)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlayer.sty"
+Package: scrlayer 2015/02/07 v3.16 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 107.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 180
+3.
+)
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1054.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+1: section
+1: chapter
+1: chapter
+1: section
+
+Class scrreprt Warning: Usage of package `titlesec' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use the package only
+(scrreprt)              if you really need it, because it breaks several
+(scrreprt)              KOMA-Script features, i.e., option `headings' and
+(scrreprt)              the extended optional argument of the section
+(scrreprt)              commands.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `titlesec' on input line 378.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip102
+\aftertitleunit=\skip103
+\ttl@plus=\dimen158
+\ttl@minus=\dimen159
+\ttl@toksa=\toks32
+\titlewidth=\dimen160
+\titlewidthlast=\dimen161
+\titlewidthfirst=\dimen162
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+)
+
+Package scrreprt Warning: Activating an ugly workaround for a missing
+(scrreprt)                feature of package `titlesec` on input line 378.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip104
+\cftbeforetoctitleskip=\skip105
+\cftaftertoctitleskip=\skip106
+\cftbeforepartskip=\skip107
+\cftpartnumwidth=\skip108
+\cftpartindent=\skip109
+\cftbeforechapskip=\skip110
+\cftchapindent=\skip111
+\cftchapnumwidth=\skip112
+\cftbeforesecskip=\skip113
+\cftsecindent=\skip114
+\cftsecnumwidth=\skip115
+\cftbeforesubsecskip=\skip116
+\cftsubsecindent=\skip117
+\cftsubsecnumwidth=\skip118
+\cftbeforesubsubsecskip=\skip119
+\cftsubsubsecindent=\skip120
+\cftsubsubsecnumwidth=\skip121
+\cftbeforeparaskip=\skip122
+\cftparaindent=\skip123
+\cftparanumwidth=\skip124
+\cftbeforesubparaskip=\skip125
+\cftsubparaindent=\skip126
+\cftsubparanumwidth=\skip127
+\cftbeforeloftitleskip=\skip128
+\cftafterloftitleskip=\skip129
+\cftbeforefigskip=\skip130
+\cftfigindent=\skip131
+\cftfignumwidth=\skip132
+\cftbeforelottitleskip=\skip133
+\cftafterlottitleskip=\skip134
+\cftbeforetabskip=\skip135
+\cfttabindent=\skip136
+\cfttabnumwidth=\skip137
+\cftbeforesubfigskip=\skip138
+\cftsubfigindent=\skip139
+\cftsubfignumwidth=\skip140
+\cftbeforesubtabskip=\skip141
+\cftsubtabindent=\skip142
+\cftsubtabnumwidth=\skip143
+)
+\newnumberwidth=\skip144
+\beforebibskip=\skip145
+\newchnumberwidth=\skip146
+\figurelabelwidth=\skip147
+\tablelabelwidth=\skip148
+\c@listings=\count362
+\cftbeforelistingsskip=\skip149
+\cftlistingsindent=\skip150
+\cftlistingsnumwidth=\skip151
+\c@loldepth=\count363
+\cftbeforeloltitleskip=\skip152
+\cftafterloltitleskip=\skip153
+\listingslabelwidth=\skip154
+
+Using KOMA-command "deffootnote" for footnote setup
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrtime.sty"
+Package: scrtime 2015/02/07 v3.16 KOMA-Script package (time of LaTeX run)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\remreset.sty")))
+("C:\Program Files\MiKTeX 2.9\tex\latex\upquote\upquote.sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\american.lbx"
+File: american.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
+File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ccicons\ccicons.sty"
+Package: ccicons 2013/04/16 v1.5 LaTeX support for Creative Commons icons
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count364
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(research.aux (FrontBackmatter/Titlepage.aux) (FrontBackmatter/Titleback.aux)
+(FrontBackmatter/Foreword.aux) (FrontBackmatter/Contents.aux)
+(Chapters/intro.aux) (Chapters/centMeas.aux) (Chapters/dispersion.aux)
+(Chapters/visDispersion.aux) (Chapters/freqTables.aux) (Chapters/visFreq.aux)
+(Chapters/correlation.aux) (Chapters/regression.aux)
+(Chapters/hypTestNonPara.aux) (Chapters/hypTestPara.aux) (Chapters/final.aux)
+(Chapters/Chapter0A.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 29.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
+File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'research.bbl' not found.
+
+No file research.bbl.
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count365
+\scratchdimen=\dimen163
+\scratchbox=\box35
+\nofMPsegments=\count366
+\nofMParguments=\count367
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count368
+\MPscratchDim=\dimen164
+\MPnumerator=\count369
+\makeMPintoPDFobject=\count370
+\everyMPtoPDFconversion=\toks36
+)
+\AtBeginShipoutBox=\box36
+
+
+Package hyperref Warning: Height of page (\stockheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
+Package hyperref Info: Link coloring ON on input line 29.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count371
+)
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
+
+(research.out) (research.out)
+\@outlinefile=\write5
+Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
+(marginnote)             Extended position detection mode activated.
+
+
+Package layouts Warning: Layout scale set to 0.5 on input line 29.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count372
+Package scrhack Info: undefining \float@addtolists on input line 29.
+LaTeX Info: Redefining \microtypecontext on input line 29.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ppl.cfg"
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+(FrontBackmatter/Titlepage.tex [1
+
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) (FrontBackmatter/Titleba
+ck.tex
+LaTeX Font Info:    Try loading font information for U+zeur on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\uzeur.fd"
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-eur.cfg"
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Try loading font information for U+zeus on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\uzeus.fd"
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-eus.cfg"
+File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
+)
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\eulervm\uzeuex.fd"
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 10.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+<doclicense-CC-by-sa.pdf, id=577, 121.45375pt x 43.16125pt>
+File: doclicense-CC-by-sa.pdf Graphic file (type pdf)
+
+<use doclicense-CC-by-sa.pdf>
+Package pdftex.def Info: doclicense-CC-by-sa.pdf used on input line 10.
+(pdftex.def)             Requested size: 109.49997pt x 38.91324pt.
+) [2
+
+
+ <C:/Program Files/MiKTeX 2.9/tex/latex/doclicense/doclicense-CC-by-sa.pdf>] (F
+rontBackmatter/Foreword.tex
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 9.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1pplj.fd"
+File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
+)
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 9.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 14.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\bera\t1fvm.fd"
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.30756pt on input line 14.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) [3
+
+
+
+
+
+
+] [4
+
+
+
+]
+(FrontBackmatter/Contents.tex
+Package tocbasic Info: character protrusion at toc deactivated on input line 11
+.
+ (research.toc
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+ [5
+
+
+
+] [6]
+Overfull \hbox (13.96533pt too wide) in paragraph at lines 239--239
+ [][] []\T1/pplj/m/sc/10.95/80ls hypothesis test-ing: non-para-met-ric statis-t
+ics []  
+ []
+
+[7])
+\tf@toc=\write6
+
+1: section
+1: chapter
+1: chapter
+1: section
+[8]) (Chapters/intro.tex
+Chapter 1.
+[1
+
+
+
+
+
+
+
+
+
+
+
+] [2] [3] <gfx/int005.png, id=775, 318.43968pt x 184.43906pt>
+File: gfx/int005.png Graphic file (type png)
+
+<use gfx/int005.png>
+Package pdftex.def Info: gfx/int005.png used on input line 72.
+(pdftex.def)             Requested size: 336.0pt x 194.60951pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 72--73
+ [] 
+ []
+
+[4]
+Overfull \hbox (2.22835pt too wide) in paragraph at lines 80--81
+\T1/pplj/m/n/10.95 to test hy-poth-e-sis about the sam-ple. For ex-am-ple, per-
+haps a re-searcher
+ []
+
+[5 <./gfx/int005.png>] <gfx/int010.png, id=790, 419.166pt x 325.215pt>
+File: gfx/int010.png Graphic file (type png)
+
+<use gfx/int010.png>
+Package pdftex.def Info: gfx/int010.png used on input line 89.
+(pdftex.def)             Requested size: 336.0pt x 260.69339pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 89--90
+ [] 
+ []
+
+<gfx/int015.png, id=792, 419.166pt x 325.215pt>
+File: gfx/int015.png Graphic file (type png)
+ <use gfx/int015.png>
+Package pdftex.def Info: gfx/int015.png used on input line 99.
+(pdftex.def)             Requested size: 336.0pt x 260.69339pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 99--100
+ [] 
+ []
+
+[6 <./gfx/int010.png>]
+
+LaTeX Font Warning: Font shape `T1/fvm/m/sc' undefined
+(Font)              using `T1/fvm/m/n' instead on input line 104.
+
+LaTeX Font Info:    Font shape `T1/fvm/m/sc' will be
+(Font)              scaled to size 8.50006pt on input line 122.
+[7 <./gfx/int015.png>] <gfx/int020.png, id=810, 430.60875pt x 127.22531pt>
+File: gfx/int020.png Graphic file (type png)
+
+<use gfx/int020.png>
+Package pdftex.def Info: gfx/int020.png used on input line 126.
+(pdftex.def)             Requested size: 336.0pt x 99.27415pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 126--127
+ [] 
+ []
+
+<gfx/int025.png, id=811, 383.93437pt x 367.3725pt>
+File: gfx/int025.png Graphic file (type png)
+ <use gfx/int025.png>
+Package pdftex.def Info: gfx/int025.png used on input line 136.
+(pdftex.def)             Requested size: 336.0pt x 321.52861pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 136--137
+ [] 
+ []
+
+[8 <./gfx/int020.png>] <gfx/int030.png, id=823, 329.73187pt x 170.13562pt>
+File: gfx/int030.png Graphic file (type png)
+
+<use gfx/int030.png>
+Package pdftex.def Info: gfx/int030.png used on input line 148.
+(pdftex.def)             Requested size: 336.0pt x 173.37506pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 148--149
+ [] 
+ []
+
+[9 <./gfx/int025.png>] <gfx/int035.png, id=833, 316.18124pt x 129.48375pt>
+File: gfx/int035.png Graphic file (type png)
+
+<use gfx/int035.png>
+Package pdftex.def Info: gfx/int035.png used on input line 159.
+(pdftex.def)             Requested size: 316.18047pt x 129.48341pt.
+ [10 <./gfx/int030.png> <./gfx/int035.png>]
+Overfull \hbox (3.98618pt too wide) in paragraph at lines 179--180
+[]\T1/pplj/m/n/10.95 To check and be cer-tain that all datasets were suc-cess-f
+ully loaded,
+ []
+
+<gfx/int040.png, id=847, 375.65344pt x 245.41687pt>
+File: gfx/int040.png Graphic file (type png)
+ <use gfx/int040.png>
+Package pdftex.def Info: gfx/int040.png used on input line 185.
+(pdftex.def)             Requested size: 319.19897pt x 208.54913pt.
+
+[11 <./gfx/int040.png>]
+LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10.95> not available
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 198.
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 9.30756pt on input line 198.
+ <gfx/int045.png, id=857, 488.57532pt x 98.61844pt>
+File: gfx/int045.png Graphic file (type png)
+
+<use gfx/int045.png>
+Package pdftex.def Info: gfx/int045.png used on input line 210.
+(pdftex.def)             Requested size: 336.0pt x 67.82256pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 210--211
+ [] 
+ []
+
+<gfx/int050.png, id=858, 322.95656pt x 118.94438pt>
+File: gfx/int050.png Graphic file (type png)
+ <use gfx/int050.png>
+Package pdftex.def Info: gfx/int050.png used on input line 220.
+(pdftex.def)             Requested size: 322.95576pt x 118.94408pt.
+
+[12 <./gfx/int045.png> <./gfx/int050.png>]
+<gfx/int055.png, id=874, 487.8225pt x 193.47281pt>
+File: gfx/int055.png Graphic file (type png)
+ <use gfx/int055.png>
+Package pdftex.def Info: gfx/int055.png used on input line 235.
+(pdftex.def)             Requested size: 336.0pt x 133.26021pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 235--236
+ [] 
+ []
+
+<gfx/int060.png, id=875, 487.06969pt x 170.88844pt>
+File: gfx/int060.png Graphic file (type png)
+ <use gfx/int060.png>
+Package pdftex.def Info: gfx/int060.png used on input line 242.
+(pdftex.def)             Requested size: 336.0pt x 117.88707pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 242--243
+ [] 
+ []
+
+<gfx/int065.png, id=876, 486.31688pt x 148.30406pt>
+File: gfx/int065.png Graphic file (type png)
+ <use gfx/int065.png>
+Package pdftex.def Info: gfx/int065.png used on input line 249.
+(pdftex.def)             Requested size: 336.0pt x 102.46341pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 249--250
+ [] 
+ []
+
+[13 <./gfx/int055.png> <./gfx/int060.png>]
+<gfx/int070.png, id=892, 374.90062pt x 181.42781pt>
+File: gfx/int070.png Graphic file (type png)
+ <use gfx/int070.png>
+Package pdftex.def Info: gfx/int070.png used on input line 263.
+(pdftex.def)             Requested size: 336.0pt x 162.61081pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 263--264
+ [] 
+ []
+
+) [14 <./gfx/int065.png> <./gfx/int070.png>] (Chapters/centMeas.tex
+Chapter 2.
+[15
+
+
+
+
+
+
+] [16] [17] <gfx/cen005.png, id=923, 295.85532pt x 85.06781pt>
+File: gfx/cen005.png Graphic file (type png)
+
+<use gfx/cen005.png>
+Package pdftex.def Info: gfx/cen005.png used on input line 71.
+(pdftex.def)             Requested size: 295.85458pt x 85.0676pt.
+ <gfx/cen010.png, id=924, 249.93375pt x 73.77562pt>
+File: gfx/cen010.png Graphic file (type png)
+
+<use gfx/cen010.png>
+Package pdftex.def Info: gfx/cen010.png used on input line 80.
+(pdftex.def)             Requested size: 249.93314pt x 73.77542pt.
+ <gfx/cen015.png, id=925, 170.13562pt x 392.96812pt>
+File: gfx/cen015.png Graphic file (type png)
+
+<use gfx/cen015.png>
+Package pdftex.def Info: gfx/cen015.png used on input line 89.
+(pdftex.def)             Requested size: 170.1352pt x 392.96715pt.
+ [18 <./gfx/cen005.png> <./gfx/cen010.png>]
+<gfx/cen020.png, id=939, 146.04562pt x 65.49469pt>
+File: gfx/cen020.png Graphic file (type png)
+ <use gfx/cen020.png>
+Package pdftex.def Info: gfx/cen020.png used on input line 98.
+(pdftex.def)             Requested size: 146.04524pt x 65.4945pt.
+
+[19 <./gfx/cen015.png> <./gfx/cen020.png>]
+<gfx/cen025.png, id=952, 599.99156pt x 163.3603pt>
+File: gfx/cen025.png Graphic file (type png)
+ <use gfx/cen025.png>
+Package pdftex.def Info: gfx/cen025.png used on input line 129.
+(pdftex.def)             Requested size: 336.0pt x 91.48611pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 129--130
+ [] 
+ []
+
+<gfx/cen030.png, id=953, 254.45062pt x 82.05656pt>
+File: gfx/cen030.png Graphic file (type png)
+ <use gfx/cen030.png>
+Package pdftex.def Info: gfx/cen030.png used on input line 138.
+(pdftex.def)             Requested size: 254.45pt x 82.05635pt.
+
+[20 <./gfx/cen025.png>] <gfx/cen035.png, id=969, 621.82312pt x 161.10187pt>
+File: gfx/cen035.png Graphic file (type png)
+
+<use gfx/cen035.png>
+Package pdftex.def Info: gfx/cen035.png used on input line 159.
+(pdftex.def)             Requested size: 336.0pt x 87.05025pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 159--160
+ [] 
+ []
+
+<gfx/cen040.png, id=970, 266.49562pt x 112.92188pt>
+File: gfx/cen040.png Graphic file (type png)
+ <use gfx/cen040.png>
+Package pdftex.def Info: gfx/cen040.png used on input line 166.
+(pdftex.def)             Requested size: 266.49496pt x 112.92159pt.
+
+[21 <./gfx/cen030.png> <./gfx/cen035.png>]
+Overfull \hbox (0.41364pt too wide) in paragraph at lines 172--173
+[]\T1/pplj/m/n/10.95 In Fig-ure [][]22[][] fe-male ba-bies born to non-smokers 
+have a mean weight
+ []
+
+<gfx/cen045.png, id=986, 91.84312pt x 63.23625pt>
+File: gfx/cen045.png Graphic file (type png)
+ <use gfx/cen045.png>
+Package pdftex.def Info: gfx/cen045.png used on input line 196.
+(pdftex.def)             Requested size: 91.84288pt x 63.23608pt.
+ [22 <./gfx/cen040.png>] <gfx/cen050.png, id=1000, 148.30406pt x 81.30376pt>
+File: gfx/cen050.png Graphic file (type png)
+
+<use gfx/cen050.png>
+Package pdftex.def Info: gfx/cen050.png used on input line 218.
+(pdftex.def)             Requested size: 148.30368pt x 81.30354pt.
+ [23 <./gfx/cen045.png> <./gfx/cen050.png>]
+LaTeX Font Info:    Font shape `T1/fvm/m/sc' will be
+(Font)              scaled to size 9.30756pt on input line 234.
+
+<gfx/cen055.png, id=1018, 325.215pt x 67.75313pt>
+File: gfx/cen055.png Graphic file (type png)
+ <use gfx/cen055.png>
+Package pdftex.def Info: gfx/cen055.png used on input line 240.
+(pdftex.def)             Requested size: 325.2142pt x 67.75294pt.
+
+<gfx/cen060.png, id=1019, 169.38281pt x 143.78719pt>
+File: gfx/cen060.png Graphic file (type png)
+ <use gfx/cen060.png>
+Package pdftex.def Info: gfx/cen060.png used on input line 247.
+(pdftex.def)             Requested size: 169.38239pt x 143.78683pt.
+
+<gfx/cen065.png, id=1020, 257.46187pt x 85.06781pt>
+File: gfx/cen065.png Graphic file (type png)
+ <use gfx/cen065.png>
+Package pdftex.def Info: gfx/cen065.png used on input line 254.
+(pdftex.def)             Requested size: 257.46123pt x 85.0676pt.
+
+[24 <./gfx/cen055.png> <./gfx/cen060.png>]) [25 <./gfx/cen065.png>] [26
+
+
+
+]
+(Chapters/dispersion.tex
+Chapter 3.
+
+Overfull \hbox (0.33138pt too wide) in paragraph at lines 27--28
+[]\T1/pplj/m/n/10.95 Occasionally, the word ``hinges'' ap-pears in sta-tis-ti-c
+al lit-er-a-ture. The
+ []
+
+[27
+
+
+
+] <gfx/dis005.jpg, id=1063, 364.36125pt x 222.07968pt>
+File: gfx/dis005.jpg Graphic file (type jpg)
+ <use gfx/dis005.jpg>
+Package pdftex.def Info: gfx/dis005.jpg used on input line 39.
+(pdftex.def)             Requested size: 336.0pt x 204.80035pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 39--40
+ [] 
+ []
+
+[28 <./gfx/dis005.jpg>] <gfx/dis010.png, id=1070, 633.86812pt x 222.07968pt>
+File: gfx/dis010.png Graphic file (type png)
+
+<use gfx/dis010.png>
+Package pdftex.def Info: gfx/dis010.png used on input line 65.
+(pdftex.def)             Requested size: 302.39795pt x 105.9498pt.
+ [29] <gfx/dis015.png, id=1080, 112.92188pt x 333.49594pt>
+File: gfx/dis015.png Graphic file (type png)
+
+<use gfx/dis015.png>
+Package pdftex.def Info: gfx/dis015.png used on input line 74.
+(pdftex.def)             Requested size: 112.92159pt x 333.49512pt.
+ <gfx/dis020.png, id=1081, 199.49532pt x 91.84312pt>
+File: gfx/dis020.png Graphic file (type png)
+
+<use gfx/dis020.png>
+Package pdftex.def Info: gfx/dis020.png used on input line 83.
+(pdftex.def)             Requested size: 199.49481pt x 91.84288pt.
+ [30 <./gfx/dis010.png> <./gfx/dis015.png>]
+<gfx/dis025.png, id=1092, 447.92343pt x 230.36063pt>
+File: gfx/dis025.png Graphic file (type png)
+ <use gfx/dis025.png>
+Package pdftex.def Info: gfx/dis025.png used on input line 100.
+(pdftex.def)             Requested size: 336.0pt x 172.80518pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 100--101
+ [] 
+ []
+
+<gfx/dis030.png, id=1093, 255.95625pt x 106.89937pt>
+File: gfx/dis030.png Graphic file (type png)
+ <use gfx/dis030.png>
+Package pdftex.def Info: gfx/dis030.png used on input line 109.
+(pdftex.def)             Requested size: 255.95561pt x 106.8991pt.
+
+[31 <./gfx/dis020.png> <./gfx/dis025.png>]
+<gfx/dis035.png, id=1102, 402.75468pt x 249.93375pt>
+File: gfx/dis035.png Graphic file (type png)
+ <use gfx/dis035.png>
+Package pdftex.def Info: gfx/dis035.png used on input line 139.
+(pdftex.def)             Requested size: 336.0pt x 208.50897pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 139--140
+ [] 
+ []
+
+[32 <./gfx/dis030.png>] <gfx/dis040.png, id=1119, 261.97874pt x 127.22531pt>
+File: gfx/dis040.png Graphic file (type png)
+
+<use gfx/dis040.png>
+Package pdftex.def Info: gfx/dis040.png used on input line 148.
+(pdftex.def)             Requested size: 261.9781pt x 127.22499pt.
+LaTeX Font Info:    Font shape `T1/fvm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/fvm/b/n' tried instead on input line 153.
+LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
+(Font)              scaled to size 9.30756pt on input line 153.
+ [33 <./gfx/dis035.png> <./gfx/dis040.png>]) [34]
+(Chapters/visDispersion.tex
+Chapter 4.
+<gfx/vdi005.png, id=1143, 158.84344pt x 239.39438pt>
+File: gfx/vdi005.png Graphic file (type png)
+ <use gfx/vdi005.png>
+Package pdftex.def Info: gfx/vdi005.png used on input line 28.
+(pdftex.def)             Requested size: 168.0pt x 253.2162pt.
+
+[35
+
+
+
+
+
+
+ <./gfx/vdi005.png>]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 39.
+
+
+Overfull \hbox (8.56845pt too wide) in paragraph at lines 44--45
+\T1/pplj/m/n/10.95 are nine out-liers. If the data are a nor-mal dis-tri-bu-tio
+n, then the whiskers
+ []
+
+<gfx/vdi010.png, id=1152, 171.64125pt x 247.67531pt>
+File: gfx/vdi010.png Graphic file (type png)
+ <use gfx/vdi010.png>
+Package pdftex.def Info: gfx/vdi010.png used on input line 63.
+(pdftex.def)             Requested size: 168.0pt x 242.4178pt.
+
+<gfx/vdi015.png, id=1153, 302.63063pt x 307.1475pt>
+File: gfx/vdi015.png Graphic file (type png)
+ <use gfx/vdi015.png>
+Package pdftex.def Info: gfx/vdi015.png used on input line 74.
+(pdftex.def)             Requested size: 252.0pt x 255.7619pt.
+
+[36 <./gfx/vdi010.png>] <gfx/vdi020.png, id=1162, 305.64188pt x 305.64188pt>
+File: gfx/vdi020.png Graphic file (type png)
+
+<use gfx/vdi020.png>
+Package pdftex.def Info: gfx/vdi020.png used on input line 85.
+(pdftex.def)             Requested size: 336.0pt x 336.01587pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 85--86
+ [] 
+ []
+
+[37 <./gfx/vdi015.png>]
+Overfull \hbox (21.27689pt too wide) in paragraph at lines 94--95
+[]\T1/pplj/m/n/10.95 Generally, four-passenger cars are less ex-pen-sive than f
+ive-passenger
+ []
+
+[38 <./gfx/vdi020.png>] <gfx/vdi025.png, id=1176, 362.85562pt x 199.49532pt>
+File: gfx/vdi025.png Graphic file (type png)
+
+<use gfx/vdi025.png>
+Package pdftex.def Info: gfx/vdi025.png used on input line 115.
+(pdftex.def)             Requested size: 336.0pt x 184.7342pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 115--116
+ [] 
+ []
+
+<gfx/vdi030.png, id=1177, 170.13562pt x 275.52937pt>
+File: gfx/vdi030.png Graphic file (type png)
+ <use gfx/vdi030.png>
+Package pdftex.def Info: gfx/vdi030.png used on input line 124.
+(pdftex.def)             Requested size: 168.0pt x 272.08542pt.
+
+[39 <./gfx/vdi025.png>] <gfx/vdi035.png, id=1188, 339.51843pt x 199.49532pt>
+File: gfx/vdi035.png Graphic file (type png)
+
+<use gfx/vdi035.png>
+Package pdftex.def Info: gfx/vdi035.png used on input line 147.
+(pdftex.def)             Requested size: 336.0pt x 197.43703pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 147--148
+ [] 
+ []
+
+[40 <./gfx/vdi030.png>] <gfx/vdi040.png, id=1200, 291.33844pt x 307.90031pt>
+File: gfx/vdi040.png Graphic file (type png)
+
+<use gfx/vdi040.png>
+Package pdftex.def Info: gfx/vdi040.png used on input line 154.
+(pdftex.def)             Requested size: 268.80103pt x 284.10329pt.
+
+Overfull \hbox (1.00555pt too wide) in paragraph at lines 161--162
+\T1/pplj/m/n/10.95 Using the \T1/pplj/m/it/10.95 main-cafe \T1/pplj/m/n/10.95 d
+ataset in \T1/fvm/m/sc/10.95 SOFA\T1/pplj/m/n/10.95 , pro-duce a box-plot for A
+ge grouped
+ []
+
+[41 <./gfx/vdi035.png> <./gfx/vdi040.png>]
+<gfx/vdi045.png, id=1210, 554.82281pt x 200.24812pt>
+File: gfx/vdi045.png Graphic file (type png)
+ <use gfx/vdi045.png>
+Package pdftex.def Info: gfx/vdi045.png used on input line 169.
+(pdftex.def)             Requested size: 336.0pt x 121.27118pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 169--170
+ [] 
+ []
+
+<gfx/vdi050.png, id=1211, 301.8778pt x 345.54094pt>
+File: gfx/vdi050.png Graphic file (type png)
+ <use gfx/vdi050.png>
+Package pdftex.def Info: gfx/vdi050.png used on input line 176.
+(pdftex.def)             Requested size: 268.80103pt x 307.67809pt.
+
+[42 <./gfx/vdi045.png>] <gfx/vdi055.png, id=1219, 575.90157pt x 201.00093pt>
+File: gfx/vdi055.png Graphic file (type png)
+
+<use gfx/vdi055.png>
+Package pdftex.def Info: gfx/vdi055.png used on input line 188.
+(pdftex.def)             Requested size: 336.0pt x 117.27376pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 188--189
+ [] 
+ []
+
+<gfx/vdi060.png, id=1220, 310.15875pt x 347.79938pt>
+File: gfx/vdi060.png Graphic file (type png)
+ <use gfx/vdi060.png>
+Package pdftex.def Info: gfx/vdi060.png used on input line 195.
+(pdftex.def)             Requested size: 268.80103pt x 301.42078pt.
+
+[43 <./gfx/vdi050.png> <./gfx/vdi055.png>]
+Overfull \hbox (1.00555pt too wide) in paragraph at lines 207--208
+\T1/pplj/m/n/10.95 Using the \T1/pplj/m/it/10.95 main-cafe \T1/pplj/m/n/10.95 d
+ataset in \T1/fvm/m/sc/10.95 SOFA\T1/pplj/m/n/10.95 , pro-duce a box-plot for A
+ge grouped
+ []
+
+[44 <./gfx/vdi060.png>]) [45] [46
+
+
+
+] (Chapters/freqTables.tex
+Chapter 5.
+<gfx/fre005.png, id=1253, 197.98969pt x 111.41624pt>
+File: gfx/fre005.png Graphic file (type png)
+ <use gfx/fre005.png>
+Package pdftex.def Info: gfx/fre005.png used on input line 16.
+(pdftex.def)             Requested size: 197.9892pt x 111.41597pt.
+
+Overfull \hbox (1.95686pt too wide) in paragraph at lines 23--24
+[]\T1/pplj/m/n/10.95 A sec-ond ex-am-ple of a fre-quency ta-ble was cre-ated fr
+om the ``Email''
+ []
+
+<gfx/fre010.png, id=1254, 168.63pt x 145.29282pt>
+File: gfx/fre010.png Graphic file (type png)
+ <use gfx/fre010.png>
+Package pdftex.def Info: gfx/fre010.png used on input line 27.
+(pdftex.def)             Requested size: 168.62958pt x 145.29245pt.
+ [47
+
+
+
+ <./gfx/fre005.png>] <gfx/fre015.png, id=1263, 225.84375pt x 121.20282pt>
+File: gfx/fre015.png Graphic file (type png)
+
+<use gfx/fre015.png>
+Package pdftex.def Info: gfx/fre015.png used on input line 43.
+(pdftex.def)             Requested size: 225.84319pt x 121.20251pt.
+ [48 <./gfx/fre010.png>]
+<gfx/fre020.png, id=1271, 139.27031pt x 166.37157pt>
+File: gfx/fre020.png Graphic file (type png)
+ <use gfx/fre020.png>
+Package pdftex.def Info: gfx/fre020.png used on input line 55.
+(pdftex.def)             Requested size: 139.26996pt x 166.37114pt.
+
+<gfx/fre025.png, id=1274, 283.0575pt x 233.37187pt>
+File: gfx/fre025.png Graphic file (type png)
+ <use gfx/fre025.png>
+Package pdftex.def Info: gfx/fre025.png used on input line 69.
+(pdftex.def)             Requested size: 283.0568pt x 233.37129pt.
+
+[49 <./gfx/fre015.png> <./gfx/fre020.png>]
+<gfx/fre030.png, id=1284, 590.205pt x 152.82094pt>
+File: gfx/fre030.png Graphic file (type png)
+ <use gfx/fre030.png>
+Package pdftex.def Info: gfx/fre030.png used on input line 93.
+(pdftex.def)             Requested size: 319.19897pt x 82.65031pt.
+
+[50 <./gfx/fre025.png>] <gfx/fre035.png, id=1296, 185.94469pt x 103.13531pt>
+File: gfx/fre035.png Graphic file (type png)
+
+<use gfx/fre035.png>
+Package pdftex.def Info: gfx/fre035.png used on input line 100.
+(pdftex.def)             Requested size: 185.94421pt x 103.13504pt.
+ <gfx/fre040.png, id=1297, 570.63188pt x 151.3153pt>
+File: gfx/fre040.png Graphic file (type png)
+
+<use gfx/fre040.png>
+Package pdftex.def Info: gfx/fre040.png used on input line 124.
+(pdftex.def)             Requested size: 319.19897pt x 84.64131pt.
+ [51 <./gfx/fre030.png> <./gfx/fre035.png>]
+<gfx/fre045.png, id=1311, 189.70876pt x 116.68594pt>
+File: gfx/fre045.png Graphic file (type png)
+ <use gfx/fre045.png>
+Package pdftex.def Info: gfx/fre045.png used on input line 131.
+(pdftex.def)             Requested size: 189.70828pt x 116.68564pt.
+
+<gfx/fre050.png, id=1312, 170.13562pt x 85.82062pt>
+File: gfx/fre050.png Graphic file (type png)
+ <use gfx/fre050.png>
+Package pdftex.def Info: gfx/fre050.png used on input line 142.
+(pdftex.def)             Requested size: 170.1352pt x 85.82039pt.
+
+<gfx/fre055.png, id=1313, 310.15875pt x 149.05687pt>
+File: gfx/fre055.png Graphic file (type png)
+ <use gfx/fre055.png>
+Package pdftex.def Info: gfx/fre055.png used on input line 149.
+(pdftex.def)             Requested size: 310.15799pt x 149.0565pt.
+
+[52 <./gfx/fre040.png> <./gfx/fre045.png> <./gfx/fre050.png>]) [53 <./gfx/fre05
+5.png>] [54
+
+
+
+] (Chapters/visFreq.tex
+Chapter 6.
+<gfx/vfr005.png, id=1345, 612.78937pt x 299.61937pt>
+File: gfx/vfr005.png Graphic file (type png)
+ <use gfx/vfr005.png>
+Package pdftex.def Info: gfx/vfr005.png used on input line 18.
+(pdftex.def)             Requested size: 319.19897pt x 156.06813pt.
+
+<gfx/vfr010.png, id=1351, 539.01375pt x 298.86656pt>
+File: gfx/vfr010.png Graphic file (type png)
+ <use gfx/vfr010.png>
+Package pdftex.def Info: gfx/vfr010.png used on input line 30.
+(pdftex.def)             Requested size: 319.19897pt x 176.98642pt.
+
+[55
+
+
+
+ <./gfx/vfr005.png>] <gfx/vfr015.png, id=1360, 382.42876pt x 261.22594pt>
+File: gfx/vfr015.png Graphic file (type png)
+
+<use gfx/vfr015.png>
+Package pdftex.def Info: gfx/vfr015.png used on input line 42.
+(pdftex.def)             Requested size: 252.0pt x 172.1346pt.
+ [56 <./gfx/vfr010.png>]
+<gfx/vfr020.png, id=1370, 379.4175pt x 258.9675pt>
+File: gfx/vfr020.png Graphic file (type png)
+ <use gfx/vfr020.png>
+Package pdftex.def Info: gfx/vfr020.png used on input line 52.
+(pdftex.def)             Requested size: 252.0pt x 172.00177pt.
+
+<gfx/vfr025.png, id=1372, 376.40625pt x 274.02374pt>
+File: gfx/vfr025.png Graphic file (type png)
+ <use gfx/vfr025.png>
+Package pdftex.def Info: gfx/vfr025.png used on input line 62.
+(pdftex.def)             Requested size: 319.19897pt x 232.39444pt.
+
+[57 <./gfx/vfr015.png> <./gfx/vfr020.png>]
+<gfx/vfr030.png, id=1382, 376.40625pt x 277.035pt>
+File: gfx/vfr030.png Graphic file (type png)
+ <use gfx/vfr030.png>
+Package pdftex.def Info: gfx/vfr030.png used on input line 72.
+(pdftex.def)             Requested size: 319.19897pt x 234.94823pt.
+
+[58 <./gfx/vfr025.png> <./gfx/vfr030.png>]
+<gfx/vfr035.png, id=1391, 389.95688pt x 333.49594pt>
+File: gfx/vfr035.png Graphic file (type png)
+ <use gfx/vfr035.png>
+Package pdftex.def Info: gfx/vfr035.png used on input line 84.
+(pdftex.def)             Requested size: 235.19897pt x 201.14229pt.
+
+<gfx/vfr040.png, id=1393, 392.21532pt x 332.74312pt>
+File: gfx/vfr040.png Graphic file (type png)
+ <use gfx/vfr040.png>
+Package pdftex.def Info: gfx/vfr040.png used on input line 94.
+(pdftex.def)             Requested size: 235.19897pt x 199.54077pt.
+
+[59 <./gfx/vfr035.png>] <gfx/vfr045.png, id=1402, 402.0621pt x 201.8742pt>
+File: gfx/vfr045.png Graphic file (type png)
+
+<use gfx/vfr045.png>
+Package pdftex.def Info: gfx/vfr045.png used on input line 106.
+(pdftex.def)             Requested size: 319.19897pt x 160.27975pt.
+ [60 <./gfx/vfr040.png> <./gfx/vfr045.png>]
+<gfx/vfr050.png, id=1411, 262.73157pt x 195.73125pt>
+File: gfx/vfr050.png Graphic file (type png)
+ <use gfx/vfr050.png>
+Package pdftex.def Info: gfx/vfr050.png used on input line 128.
+(pdftex.def)             Requested size: 262.73091pt x 195.73076pt.
+
+<gfx/vfr055.png, id=1412, 546.54187pt x 304.13625pt>
+File: gfx/vfr055.png Graphic file (type png)
+ <use gfx/vfr055.png>
+Package pdftex.def Info: gfx/vfr055.png used on input line 135.
+(pdftex.def)             Requested size: 319.19897pt x 177.6243pt.
+
+[61 <./gfx/vfr050.png> <./gfx/vfr055.png>]
+<gfx/vfr060.png, id=1427, 360.59718pt x 201.00093pt>
+File: gfx/vfr060.png Graphic file (type png)
+ <use gfx/vfr060.png>
+Package pdftex.def Info: gfx/vfr060.png used on input line 161.
+(pdftex.def)             Requested size: 319.19897pt x 177.92413pt.
+
+<gfx/vfr065.png, id=1428, 402.0621pt x 201.8742pt>
+File: gfx/vfr065.png Graphic file (type png)
+ <use gfx/vfr065.png>
+Package pdftex.def Info: gfx/vfr065.png used on input line 168.
+(pdftex.def)             Requested size: 319.19897pt x 160.27975pt.
+
+[62 <./gfx/vfr060.png> <./gfx/vfr065.png>]
+<gfx/vfr070.png, id=1442, 288.3272pt x 200.24812pt>
+File: gfx/vfr070.png Graphic file (type png)
+ <use gfx/vfr070.png>
+Package pdftex.def Info: gfx/vfr070.png used on input line 186.
+(pdftex.def)             Requested size: 288.32648pt x 200.24763pt.
+
+<gfx/vfr075.png, id=1443, 968.1771pt x 221.8689pt>
+File: gfx/vfr075.png Graphic file (type png)
+ <use gfx/vfr075.png>
+Package pdftex.def Info: gfx/vfr075.png used on input line 193.
+(pdftex.def)             Requested size: 319.19897pt x 73.14925pt.
+
+<gfx/vfr080.png, id=1444, 258.9675pt x 193.47281pt>
+File: gfx/vfr080.png Graphic file (type png)
+ <use gfx/vfr080.png>
+Package pdftex.def Info: gfx/vfr080.png used on input line 209.
+(pdftex.def)             Requested size: 258.96684pt x 193.47234pt.
+
+[63 <./gfx/vfr070.png> <./gfx/vfr075.png>]
+<gfx/vfr085.png, id=1461, 968.418pt x 194.4063pt>
+File: gfx/vfr085.png Graphic file (type png)
+ <use gfx/vfr085.png>
+Package pdftex.def Info: gfx/vfr085.png used on input line 216.
+(pdftex.def)             Requested size: 319.19897pt x 64.07713pt.
+
+<gfx/vfr090.png, id=1462, 301.8778pt x 201.00093pt>
+File: gfx/vfr090.png Graphic file (type png)
+ <use gfx/vfr090.png>
+Package pdftex.def Info: gfx/vfr090.png used on input line 233.
+(pdftex.def)             Requested size: 301.87706pt x 201.00043pt.
+
+[64 <./gfx/vfr080.png> <./gfx/vfr085.png>]
+<gfx/vfr095.png, id=1476, 520.94624pt x 286.82156pt>
+File: gfx/vfr095.png Graphic file (type png)
+ <use gfx/vfr095.png>
+Package pdftex.def Info: gfx/vfr095.png used on input line 240.
+(pdftex.def)             Requested size: 319.19897pt x 175.74428pt.
+
+<gfx/vfr100.png, id=1477, 322.95656pt x 203.25937pt>
+File: gfx/vfr100.png Graphic file (type png)
+ <use gfx/vfr100.png>
+Package pdftex.def Info: gfx/vfr100.png used on input line 258.
+(pdftex.def)             Requested size: 322.95576pt x 203.25887pt.
+
+[65 <./gfx/vfr090.png> <./gfx/vfr095.png>]
+<gfx/vfr105.png, id=1492, 520.19344pt x 319.94531pt>
+File: gfx/vfr105.png Graphic file (type png)
+ <use gfx/vfr105.png>
+Package pdftex.def Info: gfx/vfr105.png used on input line 265.
+(pdftex.def)             Requested size: 319.19897pt x 196.32336pt.
+
+[66 <./gfx/vfr100.png> <./gfx/vfr105.png>]
+<gfx/vfr110.png, id=1502, 243.15843pt x 201.00093pt>
+File: gfx/vfr110.png Graphic file (type png)
+ <use gfx/vfr110.png>
+Package pdftex.def Info: gfx/vfr110.png used on input line 295.
+(pdftex.def)             Requested size: 243.15784pt x 201.00043pt.
+
+<gfx/vfr115.png, id=1503, 377.15906pt x 280.04625pt>
+File: gfx/vfr115.png Graphic file (type png)
+ <use gfx/vfr115.png>
+Package pdftex.def Info: gfx/vfr115.png used on input line 302.
+(pdftex.def)             Requested size: 319.19897pt x 237.01059pt.
+
+[67 <./gfx/vfr110.png>] <gfx/vfr120.png, id=1516, 312.41719pt x 198.7425pt>
+File: gfx/vfr120.png Graphic file (type png)
+
+<use gfx/vfr120.png>
+Package pdftex.def Info: gfx/vfr120.png used on input line 324.
+(pdftex.def)             Requested size: 312.41641pt x 198.742pt.
+ [68 <./gfx/vfr115.png>]
+<gfx/vfr125.png, id=1530, 381.67593pt x 307.1475pt>
+File: gfx/vfr125.png Graphic file (type png)
+ <use gfx/vfr125.png>
+Package pdftex.def Info: gfx/vfr125.png used on input line 331.
+(pdftex.def)             Requested size: 319.19897pt x 256.88202pt.
+
+[69 <./gfx/vfr120.png> <./gfx/vfr125.png>]
+<gfx/vfr130.png, id=1541, 259.7203pt x 191.9672pt>
+File: gfx/vfr130.png Graphic file (type png)
+ <use gfx/vfr130.png>
+Package pdftex.def Info: gfx/vfr130.png used on input line 352.
+(pdftex.def)             Requested size: 259.71967pt x 191.96672pt.
+
+<gfx/vfr135.png, id=1542, 389.20406pt x 316.93407pt>
+File: gfx/vfr135.png Graphic file (type png)
+ <use gfx/vfr135.png>
+Package pdftex.def Info: gfx/vfr135.png used on input line 359.
+(pdftex.def)             Requested size: 268.80103pt x 218.89268pt.
+
+[70 <./gfx/vfr130.png> <./gfx/vfr135.png>]) [71] [72
+
+
+
+] (Chapters/correlation.tex
+Chapter 7.
+[73
+
+
+
+] [74] [75]
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 93.
+ [76]
+Overfull \hbox (0.63272pt too wide) in paragraph at lines 118--119
+[]\T1/pplj/m/n/10.95 While it is dif-fi-cult to de-cide if any give chi-square 
+statis-tic is ``good''
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 142--142
+[][][]\T1/pplj/m/n/9 There is an ex-cel-lent dis-cus-sion about De-grees of Fre
+e-dom at [][]$\T1/fvm/m/n/9 http :$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+$\T1/fvm/m/n/9 / / blog . minitab . com / blog / statistics-[]and-[]quality-[]d
+ata-[]analysis /$
+ []
+
+[77] <gfx/cor005.png, id=1616, 404.712pt x 222.8325pt>
+File: gfx/cor005.png Graphic file (type png)
+ <use gfx/cor005.png>
+Package pdftex.def Info: gfx/cor005.png used on input line 166.
+(pdftex.def)             Requested size: 319.19897pt x 175.75693pt.
+
+[78 <./gfx/cor005.png>] <gfx/cor010.png, id=1623, 404.712pt x 222.8325pt>
+File: gfx/cor010.png Graphic file (type png)
+
+<use gfx/cor010.png>
+Package pdftex.def Info: gfx/cor010.png used on input line 176.
+(pdftex.def)             Requested size: 319.19897pt x 175.75693pt.
+ <gfx/cor015.png, id=1626, 404.712pt x 222.8325pt>
+File: gfx/cor015.png Graphic file (type png)
+
+<use gfx/cor015.png>
+Package pdftex.def Info: gfx/cor015.png used on input line 186.
+(pdftex.def)             Requested size: 319.19897pt x 175.75693pt.
+ [79 <./gfx/cor010.png> <./gfx/cor015.png>]
+<gfx/cor020.png, id=1635, 709.14937pt x 99.37125pt>
+File: gfx/cor020.png Graphic file (type png)
+ <use gfx/cor020.png>
+Package pdftex.def Info: gfx/cor020.png used on input line 206.
+(pdftex.def)             Requested size: 319.19897pt x 44.72878pt.
+
+<gfx/cor025.png, id=1636, 444.91219pt x 102.3825pt>
+File: gfx/cor025.png Graphic file (type png)
+ <use gfx/cor025.png>
+Package pdftex.def Info: gfx/cor025.png used on input line 217.
+(pdftex.def)             Requested size: 319.19897pt x 73.45288pt.
+
+<gfx/cor030.png, id=1637, 432.86719pt x 106.89937pt>
+File: gfx/cor030.png Graphic file (type png)
+ <use gfx/cor030.png>
+Package pdftex.def Info: gfx/cor030.png used on input line 226.
+(pdftex.def)             Requested size: 319.19897pt x 78.83188pt.
+
+<gfx/cor035.png, id=1641, 509.65407pt x 388.45125pt>
+File: gfx/cor035.png Graphic file (type png)
+ <use gfx/cor035.png>
+Package pdftex.def Info: gfx/cor035.png used on input line 235.
+(pdftex.def)             Requested size: 319.19897pt x 243.29709pt.
+
+[80 <./gfx/cor020.png> <./gfx/cor025.png> <./gfx/cor030.png>]
+<gfx/cor040.png, id=1659, 703.87968pt x 94.85437pt>
+File: gfx/cor040.png Graphic file (type png)
+ <use gfx/cor040.png>
+Package pdftex.def Info: gfx/cor040.png used on input line 272.
+(pdftex.def)             Requested size: 319.19897pt x 43.01405pt.
+
+[81 <./gfx/cor035.png>] <gfx/cor045.png, id=1669, 450.18187pt x 105.39375pt>
+File: gfx/cor045.png Graphic file (type png)
+
+<use gfx/cor045.png>
+Package pdftex.def Info: gfx/cor045.png used on input line 283.
+(pdftex.def)             Requested size: 319.19897pt x 74.73196pt.
+ <gfx/cor050.png, id=1670, 455.45157pt x 112.16907pt>
+File: gfx/cor050.png Graphic file (type png)
+
+<use gfx/cor050.png>
+Package pdftex.def Info: gfx/cor050.png used on input line 292.
+(pdftex.def)             Requested size: 319.19897pt x 78.61365pt.
+ [82 <./gfx/cor040.png> <./gfx/cor045.png> <./gfx/cor050.png>] <gfx/cor055.png,
+ id=1688, 703.12688pt x 67.0003pt>
+File: gfx/cor055.png Graphic file (type png)
+ <use gfx/cor055.png>
+Package pdftex.def Info: gfx/cor055.png used on input line 331.
+(pdftex.def)             Requested size: 319.19897pt x 30.41565pt.
+
+<gfx/cor060.png, id=1689, 502.87875pt x 103.13531pt>
+File: gfx/cor060.png Graphic file (type png)
+ <use gfx/cor060.png>
+Package pdftex.def Info: gfx/cor060.png used on input line 343.
+(pdftex.def)             Requested size: 319.19897pt x 65.46342pt.
+
+<gfx/cor065.png, id=1690, 462.97969pt x 175.40532pt>
+File: gfx/cor065.png Graphic file (type png)
+ <use gfx/cor065.png>
+Package pdftex.def Info: gfx/cor065.png used on input line 352.
+(pdftex.def)             Requested size: 319.19897pt x 120.93343pt.
+
+[83 <./gfx/cor055.png> <./gfx/cor060.png>]
+Overfull \hbox (3.14078pt too wide) in paragraph at lines 364--365
+\T1/pplj/m/n/10.95 Using the \T1/pplj/m/it/10.95 main-cafe \T1/pplj/m/n/10.95 d
+ataset in \T1/fvm/m/sc/10.95 SOFA\T1/pplj/m/n/10.95 , de-ter-mine Chi Square wh
+ere Group
+ []
+
+) [84 <./gfx/cor065.png>] (Chapters/regression.tex
+Chapter 8.
+<gfx/reg005.png, id=1726, 506.6428pt x 369.63094pt>
+File: gfx/reg005.png Graphic file (type png)
+ <use gfx/reg005.png>
+Package pdftex.def Info: gfx/reg005.png used on input line 20.
+(pdftex.def)             Requested size: 319.19897pt x 232.87999pt.
+
+[85
+
+
+
+
+
+
+] <gfx/reg010.png, id=1732, 520.94624pt x 368.1253pt>
+File: gfx/reg010.png Graphic file (type png)
+ <use gfx/reg010.png>
+Package pdftex.def Info: gfx/reg010.png used on input line 30.
+(pdftex.def)             Requested size: 336.0pt x 237.43619pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 30--31
+ [] 
+ []
+
+[86 <./gfx/reg005.png> <./gfx/reg010.png>]
+<gfx/reg015.png, id=1743, 397.485pt x 112.16907pt>
+File: gfx/reg015.png Graphic file (type png)
+ <use gfx/reg015.png>
+Package pdftex.def Info: gfx/reg015.png used on input line 78.
+(pdftex.def)             Requested size: 336.0pt x 94.8204pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 78--79
+ [] 
+ []
+
+[87] <gfx/reg020.png, id=1753, 510.40688pt x 366.61969pt>
+File: gfx/reg020.png Graphic file (type png)
+ <use gfx/reg020.png>
+Package pdftex.def Info: gfx/reg020.png used on input line 87.
+(pdftex.def)             Requested size: 336.0pt x 241.35439pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 87--88
+ [] 
+ []
+
+[88 <./gfx/reg015.png> <./gfx/reg020.png>]) [89] [90
+
+
+
+]
+(Chapters/hypTestNonPara.tex
+Chapter 9.
+[91
+
+
+
+] [92] <gfx/hypnon005.png, id=1811, 239.39438pt x 414.04688pt>
+File: gfx/hypnon005.png Graphic file (type png)
+
+<use gfx/hypnon005.png>
+Package pdftex.def Info: gfx/hypnon005.png used on input line 72.
+(pdftex.def)             Requested size: 239.39378pt x 414.04585pt.
+ [93]
+<gfx/hypnon010.png, id=1821, 634.62094pt x 386.94562pt>
+File: gfx/hypnon010.png Graphic file (type png)
+
+<use gfx/hypnon010.png>
+Package pdftex.def Info: gfx/hypnon010.png used on input line 81.
+(pdftex.def)             Requested size: 336.0pt x 204.87355pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+[94 <./gfx/hypnon005.png>]
+<gfx/hypnon015.png, id=1829, 506.6428pt x 164.86594pt>
+File: gfx/hypnon015.png Graphic file (type png)
+ <use gfx/hypnon015.png>
+Package pdftex.def Info: gfx/hypnon015.png used on input line 91.
+(pdftex.def)             Requested size: 336.0pt x 109.34012pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 91--92
+ [] 
+ []
+
+[95 <./gfx/hypnon010.png> <./gfx/hypnon015.png>] [96]
+<gfx/hypnon020.png, id=1858, 529.22719pt x 124.96687pt>
+File: gfx/hypnon020.png Graphic file (type png)
+
+<use gfx/hypnon020.png>
+Package pdftex.def Info: gfx/hypnon020.png used on input line 149.
+(pdftex.def)             Requested size: 336.0pt x 79.33972pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 149--150
+ [] 
+ []
+
+<gfx/hypnon025.png, id=1859, 513.41812pt x 187.45032pt>
+File: gfx/hypnon025.png Graphic file (type png)
+
+<use gfx/hypnon025.png>
+Package pdftex.def Info: gfx/hypnon025.png used on input line 158.
+(pdftex.def)             Requested size: 336.0pt x 122.67644pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 158--159
+ [] 
+ []
+
+[97 <./gfx/hypnon020.png> <./gfx/hypnon025.png>]
+<gfx/hypnon030.png, id=1874, 512.66531pt x 79.04532pt>
+File: gfx/hypnon030.png Graphic file (type png)
+ <use gfx/hypnon030.png>
+Package pdftex.def Info: gfx/hypnon030.png used on input line 170.
+(pdftex.def)             Requested size: 336.0pt x 51.8058pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 170--171
+ [] 
+ []
+
+<gfx/hypnon035.png, id=1875, 512.66531pt x 182.18062pt>
+File: gfx/hypnon035.png Graphic file (type png)
+
+<use gfx/hypnon035.png>
+Package pdftex.def Info: gfx/hypnon035.png used on input line 177.
+(pdftex.def)             Requested size: 336.0pt x 119.40005pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 177--178
+ [] 
+ []
+
+[98 <./gfx/hypnon030.png> <./gfx/hypnon035.png>]
+<gfx/hypnon040.png, id=1886, 528.47438pt x 127.22531pt>
+File: gfx/hypnon040.png Graphic file (type png)
+
+<use gfx/hypnon040.png>
+Package pdftex.def Info: gfx/hypnon040.png used on input line 227.
+(pdftex.def)             Requested size: 336.0pt x 80.8881pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 227--228
+ [] 
+ []
+
+<gfx/hypnon045.png, id=1887, 408.02437pt x 188.95593pt>
+File: gfx/hypnon045.png Graphic file (type png)
+
+<use gfx/hypnon045.png>
+Package pdftex.def Info: gfx/hypnon045.png used on input line 236.
+(pdftex.def)             Requested size: 336.0pt x 155.608pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 236--237
+ [] 
+ []
+
+[99 <./gfx/hypnon040.png>]
+Overfull \hbox (9.13725pt too wide) in paragraph at lines 244--245
+[]\T1/pplj/b/n/10.95 Other Statis-tics\T1/pplj/m/n/10.95 . The other statis-tic
+s pre-sented in a Mann-Whitney
+ []
+
+[100 <./gfx/hypnon045.png>]
+<gfx/hypnon050.png, id=1912, 485.56406pt x 109.1578pt>
+File: gfx/hypnon050.png Graphic file (type png)
+ <use gfx/hypnon050.png>
+Package pdftex.def Info: gfx/hypnon050.png used on input line 289.
+(pdftex.def)             Requested size: 336.0pt x 75.53381pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 289--290
+ [] 
+ []
+
+<gfx/hypnon055.png, id=1913, 420.82219pt x 158.84344pt>
+File: gfx/hypnon055.png Graphic file (type png)
+
+<use gfx/hypnon055.png>
+Package pdftex.def Info: gfx/hypnon055.png used on input line 298.
+(pdftex.def)             Requested size: 336.0pt x 126.8277pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 298--299
+ [] 
+ []
+
+[101 <./gfx/hypnon050.png>] [102 <./gfx/hypnon055.png>]) [103] [104
+
+
+
+]
+(Chapters/hypTestPara.tex
+Chapter 10.
+[105
+
+
+
+] <gfx/hyppara010.png, id=1969, 527.72156pt x 125.71968pt>
+File: gfx/hyppara010.png Graphic file (type png)
+
+<use gfx/hyppara010.png>
+Package pdftex.def Info: gfx/hyppara010.png used on input line 47.
+(pdftex.def)             Requested size: 336.0pt x 80.04404pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 47--48
+ [] 
+ []
+
+[106] <gfx/hyppara015.png, id=1983, 497.60907pt x 160.34906pt>
+File: gfx/hyppara015.png Graphic file (type png)
+
+<use gfx/hyppara015.png>
+Package pdftex.def Info: gfx/hyppara015.png used on input line 59.
+(pdftex.def)             Requested size: 336.0pt x 108.27498pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 59--60
+ [] 
+ []
+
+[107 <./gfx/hyppara010.png> <./gfx/hyppara015.png>]
+<gfx/hyppara020.png, id=2002, 595.47469pt x 109.91063pt>
+File: gfx/hyppara020.png Graphic file (type png)
+
+<use gfx/hyppara020.png>
+Package pdftex.def Info: gfx/hyppara020.png used on input line 77.
+(pdftex.def)             Requested size: 336.0pt x 62.01743pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 77--78
+ [] 
+ []
+
+
+Overfull \hbox (6.10873pt too wide) in paragraph at lines 86--87
+[]\T1/pplj/b/n/10.95 CI $\U/zeur/m/n/10.95 95\T1/pplj/m/n/10.95 %$. The $\U/zeu
+r/m/n/10.95 95\T1/pplj/m/n/10.95 %$ con-fi-dence in-ter-val. For ex-am-ple, the
+re
+ []
+
+[108 <./gfx/hyppara020.png>]
+Overfull \hbox (1.68745pt too wide) in paragraph at lines 91--92
+\T1/pplj/m/n/10.95 value of skew-ness is ``bad,'' gen-er-ally val-ues lower tha
+n
+ []
+
+
+Overfull \hbox (25.24014pt too wide) in paragraph at lines 91--92
+$\U/zeus/m/n/10.95  \U/zeur/m/n/10.95 1$ \T1/pplj/m/n/10.95 or higher than $\U/
+zeus/m/n/10.95 «\U/zeur/m/n/10.95 1$ \T1/pplj/m/n/10.95 would be con-sid-ered n
+on-symmetrical.
+ []
+
+<gfx/hyppara025.png, id=2014, 346.29375pt x 271.76532pt>
+File: gfx/hyppara025.png Graphic file (type png)
+
+<use gfx/hyppara025.png>
+Package pdftex.def Info: gfx/hyppara025.png used on input line 96.
+(pdftex.def)             Requested size: 336.0pt x 263.69496pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 96--97
+ [] 
+ []
+
+[109] <gfx/hyppara030.png, id=2020, 346.29375pt x 264.99pt>
+File: gfx/hyppara030.png Graphic file (type png)
+
+<use gfx/hyppara030.png>
+Package pdftex.def Info: gfx/hyppara030.png used on input line 104.
+(pdftex.def)             Requested size: 336.0pt x 257.12085pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 104--105
+ [] 
+ []
+
+<gfx/hyppara035.png, id=2021, 498.36188pt x 119.69719pt>
+File: gfx/hyppara035.png Graphic file (type png)
+
+<use gfx/hyppara035.png>
+Package pdftex.def Info: gfx/hyppara035.png used on input line 117.
+(pdftex.def)             Requested size: 336.0pt x 80.7026pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 117--118
+ [] 
+ []
+
+[110 <./gfx/hyppara025.png> <./gfx/hyppara030.png>]
+<gfx/hyppara040.png, id=2031, 387.69844pt x 131.74219pt>
+File: gfx/hyppara040.png Graphic file (type png)
+
+<use gfx/hyppara040.png>
+Package pdftex.def Info: gfx/hyppara040.png used on input line 124.
+(pdftex.def)             Requested size: 336.0pt x 114.17653pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 124--125
+ [] 
+ []
+
+<gfx/hyppara045.png, id=2032, 592.46344pt x 127.97812pt>
+File: gfx/hyppara045.png Graphic file (type png)
+
+<use gfx/hyppara045.png>
+Package pdftex.def Info: gfx/hyppara045.png used on input line 131.
+(pdftex.def)             Requested size: 336.0pt x 72.58115pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 131--132
+ [] 
+ []
+
+[111 <./gfx/hyppara035.png> <./gfx/hyppara040.png> <./gfx/hyppara045.png>]
+<gfx/hyppara050.png, id=2047, 563.10374pt x 124.96687pt>
+File: gfx/hyppara050.png Graphic file (type png)
+
+<use gfx/hyppara050.png>
+Package pdftex.def Info: gfx/hyppara050.png used on input line 185.
+(pdftex.def)             Requested size: 336.0pt x 74.56691pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 185--186
+ [] 
+ []
+
+<gfx/hyppara055.png, id=2048, 600.74437pt x 215.30438pt>
+File: gfx/hyppara055.png Graphic file (type png)
+
+<use gfx/hyppara055.png>
+Package pdftex.def Info: gfx/hyppara055.png used on input line 194.
+(pdftex.def)             Requested size: 336.0pt x 120.42506pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 194--195
+ [] 
+ []
+
+[112 <./gfx/hyppara050.png>] [113 <./gfx/hyppara055.png>]
+<gfx/hyppara060.png, id=2081, 437.38406pt x 88.83188pt>
+File: gfx/hyppara060.png Graphic file (type png)
+
+<use gfx/hyppara060.png>
+Package pdftex.def Info: gfx/hyppara060.png used on input line 249.
+(pdftex.def)             Requested size: 336.0pt x 68.24216pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 249--250
+ [] 
+ []
+
+<gfx/hyppara065.png, id=2082, 378.66469pt x 180.675pt>
+File: gfx/hyppara065.png Graphic file (type png)
+
+<use gfx/hyppara065.png>
+Package pdftex.def Info: gfx/hyppara065.png used on input line 258.
+(pdftex.def)             Requested size: 336.0pt x 160.32053pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 258--259
+ [] 
+ []
+
+[114 <./gfx/hyppara060.png>]
+<gfx/hyppara070.png, id=2095, 504.38437pt x 272.51813pt>
+File: gfx/hyppara070.png Graphic file (type png)
+
+<use gfx/hyppara070.png>
+Package pdftex.def Info: gfx/hyppara070.png used on input line 271.
+(pdftex.def)             Requested size: 336.0pt x 181.54247pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 271--272
+ [] 
+ []
+
+[115 <./gfx/hyppara065.png>]) [116 <./gfx/hyppara070.png>] (Chapters/final.tex
+Chapter 11.
+) [117
+
+
+
+
+
+
+] [118
+
+
+
+] [119] [120] (Chapters/Chapter0A.tex
+Chapter 12.
+
+Overfull \hbox (0.87688pt too wide) in paragraph at lines 29--30
+[]\T1/pplj/b/n/10.95 bii.di\T1/pplj/m/n/10.95 . (Ra-tio : Nor-mal : $\U/zeus/m/
+n/10.95  \U/zeur/m/n/10.95 0\T1/pplj/m/n/10.95 .\U/zeur/m/n/10.95 417$ \T1/pplj
+/m/n/10.95 : $\U/zeur/m/n/10.95 1\T1/pplj/m/n/10.95 .\U/zeur/m/n/10.95 09$\T1/p
+plj/m/n/10.95 ) The pa-tient's bi-il-iac (pelvic
+ []
+
+
+Overfull \hbox (9.18788pt too wide) in paragraph at lines 30--31
+[]\T1/pplj/b/n/10.95 bit.di\T1/pplj/m/n/10.95 . (Ra-tio : Nor-mal : $\U/zeus/m/
+n/10.95  \U/zeur/m/n/10.95 0\T1/pplj/m/n/10.95 .\U/zeur/m/n/10.95 087$ \T1/pplj
+/m/n/10.95 : $\U/zeur/m/n/10.95 0\T1/pplj/m/n/10.95 .\U/zeur/m/n/10.95 036$\T1/
+pplj/m/n/10.95 ) The pa-tient's bi-trochanteric
+ []
+
+[121
+
+
+
+] [122]
+Overfull \hbox (5.07791pt too wide) in paragraph at lines 61--62
+[]\T1/pplj/b/n/10.95 Habit\T1/pplj/m/n/10.95 . (Nom-i-nal : Not Nor-mal : N/A :
+ N/A) Whether the mother
+ []
+
+
+Overfull \hbox (2.2966pt too wide) in paragraph at lines 62--63
+[]\T1/pplj/b/n/10.95 Lowbirthweight\T1/pplj/m/n/10.95 . (Nom-i-nal : Not Nor-ma
+l : N/A : N/A) Whether
+ []
+
+[123] [124] [125] [126] [127] [128]
+<gfx/apb005.png, id=2176, 106.14656pt x 168.63pt>
+File: gfx/apb005.png Graphic file (type png)
+ <use gfx/apb005.png>
+Package pdftex.def Info: gfx/apb005.png used on input line 201.
+(pdftex.def)             Requested size: 106.1463pt x 168.62958pt.
+ [129]
+<gfx/apb010.png, id=2181, 225.09094pt x 67.0003pt>
+File: gfx/apb010.png Graphic file (type png)
+ <use gfx/apb010.png>
+Package pdftex.def Info: gfx/apb010.png used on input line 214.
+(pdftex.def)             Requested size: 225.09038pt x 67.00012pt.
+
+<gfx/apb015.png, id=2182, 327.47343pt x 179.92218pt>
+File: gfx/apb015.png Graphic file (type png)
+ <use gfx/apb015.png>
+Package pdftex.def Info: gfx/apb015.png used on input line 223.
+(pdftex.def)             Requested size: 327.47264pt x 179.92174pt.
+
+[130 <./gfx/apb005.png> <./gfx/apb010.png>] [131 <./gfx/apb015.png>]) [132]
+[133
+
+] [134]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+ (research.aux (FrontBackmatter/Titlepage.aux)
+(FrontBackmatter/Titleback.aux) (FrontBackmatter/Foreword.aux)
+(FrontBackmatter/Contents.aux) (Chapters/intro.aux) (Chapters/centMeas.aux)
+(Chapters/dispersion.aux) (Chapters/visDispersion.aux) (Chapters/freqTables.aux
+) (Chapters/visFreq.aux) (Chapters/correlation.aux) (Chapters/regression.aux)
+(Chapters/hypTestNonPara.aux) (Chapters/hypTestPara.aux) (Chapters/final.aux)
+(Chapters/Chapter0A.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
+
+
+ *File List*
+  fix-cm.sty    2014/09/29 v1.1s fixes to LaTeX
+  ts1enc.def    2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+scrreprt.cls    2015/02/07 v3.16 KOMA-Script document class (report)
+scrkbase.sty    2015/02/07 v3.16 KOMA-Script package (KOMA-Script-dependent bas
+ics and keyval usage)
+ scrbase.sty    2015/02/07 v3.16 KOMA-Script package (KOMA-Script-independent b
+asics and keyval usage)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+scrlfile.sty    2015/02/07 v3.16 KOMA-Script package (loading files)
+tocbasic.sty    2015/02/07 v3.16 KOMA-Script package (handling toc-files)
+scrsize11pt.clo    2015/02/07 v3.16 KOMA-Script font size class option (11pt)
+typearea.sty    2015/02/07 v3.16 KOMA-Script package (type area)
+research-config.tex
+inputenc.sty    2014/04/30 v1.2b Input encoding file
+    utf8.def    2014/09/29 v1.1m UTF-8 support for inputenc
+   t1enc.dfu    2014/09/29 v1.1m UTF-8 support for inputenc
+  ot1enc.dfu    2014/09/29 v1.1m UTF-8 support for inputenc
+  omsenc.dfu    2014/09/29 v1.1m UTF-8 support for inputenc
+  ts1enc.dfu    2014/09/29 v1.1m UTF-8 support for inputenc
+   babel.sty    2014/09/25 3.9l The Babel package
+ bblopts.cfg    2006/07/31 v1.0 MiKTeX 'babel' configuration
+ english.ldf    2012/08/20 v3.3p English support from the babel system
+csquotes.sty    2011/10/22 v5.1d context-sensitive quotations
+etoolbox.sty    2015/03/10 v2.1b e-TeX tools for LaTeX (JAW)
+    etex.sty    2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+csquotes.def    2011/10/22 v5.1d csquotes generic definitions
+csquotes.cfg    
+biblatex.sty    2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
+biblatex1.sty    2014/06/25 v2.9a programmable bibliographies (bibtex) (PK/JW/A
+B)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+blx-compat.def    2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+biblatex.def    
+blx-natbib.def    2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+standard.bbx    2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+ numeric.bbx    2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+numeric-comp.bbx    2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+numeric-comp.cbx    2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
+biblatex.cfg    
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+ fontenc.sty
+   t1enc.def    2005/09/27 v1.99g Standard LaTeX file
+textcomp.sty    2005/09/27 v1.99g Standard LaTeX package
+  ts1enc.def    2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+ scrhack.sty    2015/02/07 v3.16 KOMA-Script package 
+  xspace.sty    2014/10/28 v1.13 Space after command names (DPC,MH)
+mparhack.sty    2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+fixltx2e.sty    2014/09/29 v1.1s fixes to LaTeX
+ acronym.sty    2014/09/29 v1.40 Support for acronyms (Tobias Oetiker)
+  suffix.sty    2006/07/15 1.5a Variant command support
+ xstring.sty    2013/10/13  v1.7c  String manipulations (C Tellechea)
+ relsize.sty    2003/07/04 ver 3.1
+  xcolor.sty    2007/01/21 v2.11 LaTeX color extensions (UK)
+   color.cfg    2007/01/18 v1.5 color configuration of teTeX/TeXLive
+  pdftex.def    2011/05/27 v0.06d Graphics/color for pdfTeX
+infwarerr.sty    2010/04/08 v1.3 Providing info/warning/error messages (HO)
+ ltxcmds.sty    2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+colortbl.sty    2012/02/13 v1.0a Color table columns (DPC)
+   array.sty    2014/10/28 v2.4c Tabular extension package (FMi)
+  framed.sty    2011/10/22 v 0.96: framed or shaded text with page breaks
+   alltt.sty    1997/06/16 v2.0g defines alltt environment
+hyperref.sty    2012/11/06 v6.83m Hypertext links for LaTeX
+hobsub-hyperref.sty    2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+hobsub-generic.sty    2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+  hobsub.sty    2012/04/25 v1.12 Construct package bundles (HO)
+ifluatex.sty    2010/03/01 v1.3 Provides the ifluatex switch (HO)
+  ifvtex.sty    2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+ intcalc.sty    2007/09/27 v1.1 Expandable calculations with integers (HO)
+   ifpdf.sty    2011/01/30 v2.3 Provides the ifpdf switch (HO)
+etexcmds.sty    2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+kvsetkeys.sty    2012/04/25 v1.16 Key value parser (HO)
+kvdefinekeys.sty    2011/04/07 v1.3 Define keys (HO)
+pdftexcmds.sty    2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+pdfescape.sty    2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+bigintcalc.sty    2012/04/08 v1.3 Expandable calculations on big integers (HO)
+  bitset.sty    2011/01/30 v1.1 Handle bit-vector datatype (HO)
+uniquecounter.sty    2011/01/30 v1.2 Provide unlimited unique counter (HO)
+letltxmacro.sty    2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+ hopatch.sty    2011/06/24 v1.1 Wrapper for package hooks (HO)
+xcolor-patch.sty    2011/01/30 xcolor patch
+atveryend.sty    2011/06/30 v1.8 Hooks at the very end of document (HO)
+atbegshi.sty    2011/10/05 v1.16 At begin shipout hook (HO)
+refcount.sty    2011/10/16 v3.4 Data extraction from label references (HO)
+ hycolor.sty    2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+ auxhook.sty    2011/03/04 v1.3 Hooks for auxiliary files (HO)
+kvoptions.sty    2011/06/30 v3.11 Key value format for package options (HO)
+  pd1enc.def    2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+hyperref.cfg    2002/06/06 v1.2 hyperref configuration of TeXLive
+ hpdftex.def    2012/11/06 v6.83m Hyperref driver for pdfTeX
+rerunfilecheck.sty    2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+ dcolumn.sty    2014/10/28 v1.06 decimal alignment package (DPC)
+marginnote.sty    2012/03/29 v1.1i non floating margin notes for LaTeX
+doclicense.sty    2015/02/13 v0.10 Set and print the license of a document
+ xifthen.sty    2009/04/17 v1.3 Extended ifthen features
+    calc.sty    2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+ ifmtarg.sty    2009/09/02 v1.2a check for an empty argument
+doclicense-american.ldf    
+doclicense-english.ldf    
+ layouts.sty    2009/09/02 v2.6d graphical depiction of document elements
+tabularx.sty    2014/10/28 v2.10 `tabularx' package (DPC)
+ caption.sty    2013/05/02 v3.3-89 Customizing captions (AR)
+caption3.sty    2013/05/02 v1.6-88 caption3 kernel (AR)
+  subfig.sty    2005/06/28 ver: 1.3 subfig package
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+   float.hak    2015/02/07 v3.16 KOMA-Script package (hacking package float)
+listings.sty    2014/09/06 1.5e (Carsten Heinz)
+ lstmisc.sty    2014/09/06 1.5e (Carsten Heinz)
+listings.cfg    2014/09/06 1.5e listings configuration
+listings.hak    2015/02/07 v3.16 KOMA-Script package (hacking package listings)
+
+lstlang1.sty    2014/09/06 1.5e listings language file
+lstlang2.sty    2014/09/06 1.5e listings language file
+lstlang3.sty    2014/09/06 1.5e listings language file
+lstlang1.sty    2014/09/06 1.5e listings language file
+lstlang2.sty    2014/09/06 1.5e listings language file
+lstlang3.sty    2014/09/06 1.5e listings language file
+lstlang1.sty    2014/09/06 1.5e listings language file
+lstlang2.sty    2014/09/06 1.5e listings language file
+lstlang3.sty    2014/09/06 1.5e listings language file
+ lstmisc.sty    2014/09/06 1.5e (Carsten Heinz)
+graphicx.sty    2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    1999/03/16 v1.09 sin cos tan (DPC)
+graphics.cfg    2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+classicthesis.sty    2015/09/06 v4.2 Typographic style for a classic-looking th
+esis
+mathpazo.sty    2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+beramono.sty    2004/01/31 (WaS)
+ eulervm.sty    2005/01/11 v4.0 (WaS)
+microtype.sty    2013/05/23 v2.5a Micro-typographical refinements (RS)
+microtype-pdftex.def    2013/05/23 v2.5a Definitions specific to pdftex (RS)
+microtype.cfg    2013/05/23 v2.5a microtype main configuration file (RS)
+booktabs.sty    2005/04/14 v1.61803 publication quality tables
+textcase.sty    2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+scrlayer-scrpage.sty    2015/02/07 v3.16 KOMA-Script package (end user interfac
+e for scrlayer)
+scrlayer.sty    2015/02/07 v3.16 KOMA-Script package (defining layers and page 
+styles)
+titlesec.sty    2011/12/15 v2.10.0 Sectioning titles
+ tocloft.sty    2013/05/02 v2.3f parameterised ToC, etc., typesetting
+ scrtime.sty    2015/02/07 v3.16 KOMA-Script package (time of LaTeX run)
+remreset.sty    
+ upquote.sty    2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
+im
+ english.lbx    2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+american.lbx    2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+ ccicons.sty    2013/04/16 v1.5 LaTeX support for Creative Commons icons
+ xkeyval.sty    2014/12/03 v2.7a package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+  t1pplj.fd    2004/09/06 font definitions for T1/pplj.
+supp-pdf.mkii
+ nameref.sty    2012/10/27 v2.43 Cross-referencing by name of section
+gettitlestring.sty    2010/12/03 v1.4 Cleanup title references (HO)
+research.out
+research.out
+  mt-ppl.cfg    2005/11/16 v1.6 microtype config. file: Palatino (RS)
+FrontBackmatter/Titlepage.tex
+FrontBackmatter/Titleback.tex
+   uzeur.fd    2005/01/11 v4.0 (WaS)
+  mt-eur.cfg    2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+   uzeus.fd    2005/01/11 v4.0 (WaS)
+  mt-eus.cfg    2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
+  uzeuex.fd    2005/01/11 v4.0 (WaS)
+ ot1zplm.fd    2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+doclicense-CC-by-sa.pdf    Graphic file (type pdf)
+FrontBackmatter/Foreword.tex
+ ts1pplj.fd    2004/09/06 font definitions for TS1/pplj.
+   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
+FrontBackmatter/Contents.tex
+Chapters/intro.tex
+gfx/int005.png
+gfx/int010.png
+gfx/int015.png
+gfx/int020.png
+gfx/int025.png
+gfx/int030.png
+gfx/int035.png
+gfx/int040.png
+gfx/int045.png
+gfx/int050.png
+gfx/int055.png
+gfx/int060.png
+gfx/int065.png
+gfx/int070.png
+Chapters/centMeas.tex
+gfx/cen005.png
+gfx/cen010.png
+gfx/cen015.png
+gfx/cen020.png
+gfx/cen025.png
+gfx/cen030.png
+gfx/cen035.png
+gfx/cen040.png
+gfx/cen045.png
+gfx/cen050.png
+gfx/cen055.png
+gfx/cen060.png
+gfx/cen065.png
+Chapters/dispersion.tex
+gfx/dis005.jpg
+gfx/dis010.png
+gfx/dis015.png
+gfx/dis020.png
+gfx/dis025.png
+gfx/dis030.png
+gfx/dis035.png
+gfx/dis040.png
+Chapters/visDispersion.tex
+gfx/vdi005.png
+gfx/vdi010.png
+gfx/vdi015.png
+gfx/vdi020.png
+gfx/vdi025.png
+gfx/vdi030.png
+gfx/vdi035.png
+gfx/vdi040.png
+gfx/vdi045.png
+gfx/vdi050.png
+gfx/vdi055.png
+gfx/vdi060.png
+Chapters/freqTables.tex
+gfx/fre005.png
+gfx/fre010.png
+gfx/fre015.png
+gfx/fre020.png
+gfx/fre025.png
+gfx/fre030.png
+gfx/fre035.png
+gfx/fre040.png
+gfx/fre045.png
+gfx/fre050.png
+gfx/fre055.png
+Chapters/visFreq.tex
+gfx/vfr005.png
+gfx/vfr010.png
+gfx/vfr015.png
+gfx/vfr020.png
+gfx/vfr025.png
+gfx/vfr030.png
+gfx/vfr035.png
+gfx/vfr040.png
+gfx/vfr045.png
+gfx/vfr050.png
+gfx/vfr055.png
+gfx/vfr060.png
+gfx/vfr065.png
+gfx/vfr070.png
+gfx/vfr075.png
+gfx/vfr080.png
+gfx/vfr085.png
+gfx/vfr090.png
+gfx/vfr095.png
+gfx/vfr100.png
+gfx/vfr105.png
+gfx/vfr110.png
+gfx/vfr115.png
+gfx/vfr120.png
+gfx/vfr125.png
+gfx/vfr130.png
+gfx/vfr135.png
+Chapters/correlation.tex
+gfx/cor005.png
+gfx/cor010.png
+gfx/cor015.png
+gfx/cor020.png
+gfx/cor025.png
+gfx/cor030.png
+gfx/cor035.png
+gfx/cor040.png
+gfx/cor045.png
+gfx/cor050.png
+gfx/cor055.png
+gfx/cor060.png
+gfx/cor065.png
+Chapters/regression.tex
+gfx/reg005.png
+gfx/reg010.png
+gfx/reg015.png
+gfx/reg020.png
+Chapters/hypTestNonPara.tex
+gfx/hypnon005.png
+gfx/hypnon010.png
+gfx/hypnon015.png
+gfx/hypnon020.png
+gfx/hypnon025.png
+gfx/hypnon030.png
+gfx/hypnon035.png
+gfx/hypnon040.png
+gfx/hypnon045.png
+gfx/hypnon050.png
+gfx/hypnon055.png
+Chapters/hypTestPara.tex
+gfx/hyppara010.png
+gfx/hyppara015.png
+gfx/hyppara020.png
+gfx/hyppara025.png
+gfx/hyppara030.png
+gfx/hyppara035.png
+gfx/hyppara040.png
+gfx/hyppara045.png
+gfx/hyppara050.png
+gfx/hyppara055.png
+gfx/hyppara060.png
+gfx/hyppara065.png
+gfx/hyppara070.png
+Chapters/final.tex
+Chapters/Chapter0A.tex
+gfx/apb005.png
+gfx/apb010.png
+gfx/apb015.png
+ ***********
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
+Package rerunfilecheck Info: File `research.out' has not changed.
+(rerunfilecheck)             Checksum: 4BD558E2AEADC64F3B0A7A9EBB179809;10097.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'research.run.xml'.
+ ) 
+Here is how much of TeX's memory you used:
+ 25062 strings out of 493691
+ 426487 string characters out of 3144022
+ 760117 words of memory out of 3000000
+ 26946 multiletter control sequences out of 15000+200000
+ 91123 words of font info for 133 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 77i,23n,100p,1529b,3522s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/euler/eufm7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/euler/eurb10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/euler/eurm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/euler/eurm7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl
+/fplbj8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/bera/fvmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/bera/fvmro8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/palatino/uplri8a.pfb>
+Output written on research.pdf (142 pages, 2066349 bytes).
+PDF statistics:
+ 2408 PDF objects out of 2487 (max. 8388607)
+ 714 named destinations out of 1000 (max. 500000)
+ 21235 words of extra memory for PDF output out of 24883 (max. 10000000)
+

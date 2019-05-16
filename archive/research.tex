@@ -1,0 +1,103 @@
+% *************************************************************************************
+% Research (BASV 316)
+% *************************************************************************************
+\RequirePackage{fix-cm} % fix some latex issues see: http://texdoc.net/texmf-dist/doc/latex/base/fixltx2e.pdf
+\documentclass[ twoside,openright,titlepage,numbers=noenddot,headinclude,
+footinclude=true,cleardoublepage=empty,abstractoff, 
+BCOR=5mm,fontsize=11pt,american]{scrreprt}
+
+%********************************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\input{research-config}
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+%\addbibresource{Bibliography.bib}
+%\addbibresource[label=ownpubs]{AMiede_Publications.bib}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+% ********************************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+\frenchspacing
+\raggedbottom
+\selectlanguage{american} % american ngerman
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%********************************************************************
+% Frontmatter
+%*******************************************************
+%\include{FrontBackmatter/DirtyTitlepage}
+\include{FrontBackmatter/Titlepage}
+\include{FrontBackmatter/Titleback}
+%\cleardoublepage\include{FrontBackmatter/Dedication}
+\cleardoublepage\include{FrontBackmatter/Foreword}
+%\cleardoublepage\include{FrontBackmatter/Abstract}
+%\cleardoublepage\include{FrontBackmatter/Publications}
+%\cleardoublepage\include{FrontBackmatter/Acknowledgments}
+\pagestyle{scrheadings}
+\cleardoublepage\include{FrontBackmatter/Contents}
+
+%********************************************************************
+% Mainmatter
+%*******************************************************
+\cleardoublepage\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+%\ctparttext{Labs are essential to understanding the concepts of
+%  research methodology. The labs presented in this manual are
+%  conducted with SOFA.}
+%\part{Lab Manual}
+%\include{Chapters/Chapter01}
+%\cleardoublepage
+%\ctparttext{Labs are essential to understanding the concepts of
+%  research methodology. The labs presented in this manual are
+%  conducted with SOFA.}
+%\part{Lab Manual}
+\cleardoublepage\include{Chapters/intro}
+\cleardoublepage\include{Chapters/centMeas}
+\cleardoublepage\include{Chapters/dispersion}
+\cleardoublepage\include{Chapters/visDispersion}
+\cleardoublepage\include{Chapters/freqTables}
+\cleardoublepage\include{Chapters/visFreq}
+\cleardoublepage\include{Chapters/correlation}
+\cleardoublepage\include{Chapters/regression}
+\cleardoublepage\include{Chapters/hypTestNonPara}
+\cleardoublepage\include{Chapters/hypTestPara}
+\cleardoublepage\include{Chapters/final}
+
+% ********************************************************************
+% Backmatter
+%*******************************************************
+%\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+%\cleardoublepage
+\part{Appendix}
+\include{Chapters/Chapter0A}
+%********************************************************************
+% Other Stuff in the Back
+%*******************************************************
+%\cleardoublepage\include{FrontBackmatter/Bibliography}
+%\cleardoublepage\include{FrontBackmatter/Declaration}
+%\cleardoublepage\include{FrontBackmatter/Colophon}
+
+% Add two blank pages at the end
+\leavevmode\thispagestyle{empty}\newpage
+\leavevmode\thispagestyle{empty}\newpage
+% ********************************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}
+% ********************************************************************
